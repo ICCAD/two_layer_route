@@ -1,0 +1,1354 @@
+set arrow from 5898.4,160.9 to 5898.4,243.1 nohead lc 3 lw 2
+set arrow from 5898.4,243.1 to 5980.6,243.1 nohead lc 3 lw 2
+set arrow from 5980.6,243.1 to 5980.6,160.9 nohead lc 3 lw 2
+set arrow from 5980.6,160.9 to 5898.4,160.9 nohead lc 3 lw 2
+set label "p50" at 5939.5,202 front center font ",36"
+set arrow from 5778.5,0 to 5778.5,4 nohead lc 6 lw 2
+set arrow from 5778.5,4 to 5797.5,4 nohead lc 6 lw 2
+set arrow from 5797.5,4 to 5797.5,0 nohead lc 6 lw 2
+set arrow from 5797.5,0 to 5778.5,0 nohead lc 6 lw 2
+set label "v47" at 5788,2 front center font ",36"
+set arrow from 5757.4,583.9 to 5757.4,666.1 nohead lc 3 lw 2
+set arrow from 5757.4,666.1 to 5839.6,666.1 nohead lc 3 lw 2
+set arrow from 5839.6,666.1 to 5839.6,583.9 nohead lc 3 lw 2
+set arrow from 5839.6,583.9 to 5757.4,583.9 nohead lc 3 lw 2
+set label "p51" at 5798.5,625 front center font ",36"
+set arrow from 5711.5,0 to 5711.5,4 nohead lc 6 lw 2
+set arrow from 5711.5,4 to 5730.5,4 nohead lc 6 lw 2
+set arrow from 5730.5,4 to 5730.5,0 nohead lc 6 lw 2
+set arrow from 5730.5,0 to 5711.5,0 nohead lc 6 lw 2
+set label "v48" at 5721,2 front center font ",36"
+set arrow from 5757.4,301.9 to 5757.4,384.1 nohead lc 3 lw 2
+set arrow from 5757.4,384.1 to 5839.6,384.1 nohead lc 3 lw 2
+set arrow from 5839.6,384.1 to 5839.6,301.9 nohead lc 3 lw 2
+set arrow from 5839.6,301.9 to 5757.4,301.9 nohead lc 3 lw 2
+set label "p52" at 5798.5,343 front center font ",36"
+set arrow from 5677.5,0 to 5677.5,4 nohead lc 6 lw 2
+set arrow from 5677.5,4 to 5696.5,4 nohead lc 6 lw 2
+set arrow from 5696.5,4 to 5696.5,0 nohead lc 6 lw 2
+set arrow from 5696.5,0 to 5677.5,0 nohead lc 6 lw 2
+set label "v49" at 5687,2 front center font ",36"
+set arrow from 5616.4,724.9 to 5616.4,807.1 nohead lc 3 lw 2
+set arrow from 5616.4,807.1 to 5698.6,807.1 nohead lc 3 lw 2
+set arrow from 5698.6,807.1 to 5698.6,724.9 nohead lc 3 lw 2
+set arrow from 5698.6,724.9 to 5616.4,724.9 nohead lc 3 lw 2
+set label "p53" at 5657.5,766 front center font ",36"
+set arrow from 5643.5,0 to 5643.5,4 nohead lc 6 lw 2
+set arrow from 5643.5,4 to 5662.5,4 nohead lc 6 lw 2
+set arrow from 5662.5,4 to 5662.5,0 nohead lc 6 lw 2
+set arrow from 5662.5,0 to 5643.5,0 nohead lc 6 lw 2
+set label "v50" at 5653,2 front center font ",36"
+set arrow from 5616.4,442.9 to 5616.4,525.1 nohead lc 3 lw 2
+set arrow from 5616.4,525.1 to 5698.6,525.1 nohead lc 3 lw 2
+set arrow from 5698.6,525.1 to 5698.6,442.9 nohead lc 3 lw 2
+set arrow from 5698.6,442.9 to 5616.4,442.9 nohead lc 3 lw 2
+set label "p54" at 5657.5,484 front center font ",36"
+set arrow from 5609.5,0 to 5609.5,4 nohead lc 6 lw 2
+set arrow from 5609.5,4 to 5628.5,4 nohead lc 6 lw 2
+set arrow from 5628.5,4 to 5628.5,0 nohead lc 6 lw 2
+set arrow from 5628.5,0 to 5609.5,0 nohead lc 6 lw 2
+set label "v51" at 5619,2 front center font ",36"
+set arrow from 7731.4,724.9 to 7731.4,807.1 nohead lc 3 lw 2
+set arrow from 7731.4,807.1 to 7813.6,807.1 nohead lc 3 lw 2
+set arrow from 7813.6,807.1 to 7813.6,724.9 nohead lc 3 lw 2
+set arrow from 7813.6,724.9 to 7731.4,724.9 nohead lc 3 lw 2
+set label "p90" at 7772.5,766 front center font ",36"
+set arrow from 7633.5,0 to 7633.5,4 nohead lc 6 lw 2
+set arrow from 7633.5,4 to 7652.5,4 nohead lc 6 lw 2
+set arrow from 7652.5,4 to 7652.5,0 nohead lc 6 lw 2
+set arrow from 7652.5,0 to 7633.5,0 nohead lc 6 lw 2
+set label "v87" at 7643,2 front center font ",36"
+set arrow from 7731.4,442.9 to 7731.4,525.1 nohead lc 3 lw 2
+set arrow from 7731.4,525.1 to 7813.6,525.1 nohead lc 3 lw 2
+set arrow from 7813.6,525.1 to 7813.6,442.9 nohead lc 3 lw 2
+set arrow from 7813.6,442.9 to 7731.4,442.9 nohead lc 3 lw 2
+set label "p91" at 7772.5,484 front center font ",36"
+set arrow from 7566.5,0 to 7566.5,4 nohead lc 6 lw 2
+set arrow from 7566.5,4 to 7585.5,4 nohead lc 6 lw 2
+set arrow from 7585.5,4 to 7585.5,0 nohead lc 6 lw 2
+set arrow from 7585.5,0 to 7566.5,0 nohead lc 6 lw 2
+set label "v88" at 7576,2 front center font ",36"
+set arrow from 7731.4,301.9 to 7731.4,384.1 nohead lc 3 lw 2
+set arrow from 7731.4,384.1 to 7813.6,384.1 nohead lc 3 lw 2
+set arrow from 7813.6,384.1 to 7813.6,301.9 nohead lc 3 lw 2
+set arrow from 7813.6,301.9 to 7731.4,301.9 nohead lc 3 lw 2
+set label "p92" at 7772.5,343 front center font ",36"
+set arrow from 7532.5,0 to 7532.5,4 nohead lc 6 lw 2
+set arrow from 7532.5,4 to 7551.5,4 nohead lc 6 lw 2
+set arrow from 7551.5,4 to 7551.5,0 nohead lc 6 lw 2
+set arrow from 7551.5,0 to 7532.5,0 nohead lc 6 lw 2
+set label "v89" at 7542,2 front center font ",36"
+set arrow from 7731.4,160.9 to 7731.4,243.1 nohead lc 3 lw 2
+set arrow from 7731.4,243.1 to 7813.6,243.1 nohead lc 3 lw 2
+set arrow from 7813.6,243.1 to 7813.6,160.9 nohead lc 3 lw 2
+set arrow from 7813.6,160.9 to 7731.4,160.9 nohead lc 3 lw 2
+set label "p93" at 7772.5,202 front center font ",36"
+set arrow from 7498.5,0 to 7498.5,4 nohead lc 6 lw 2
+set arrow from 7498.5,4 to 7517.5,4 nohead lc 6 lw 2
+set arrow from 7517.5,4 to 7517.5,0 nohead lc 6 lw 2
+set arrow from 7517.5,0 to 7498.5,0 nohead lc 6 lw 2
+set label "v90" at 7508,2 front center font ",36"
+set arrow from 7590.4,724.9 to 7590.4,807.1 nohead lc 3 lw 2
+set arrow from 7590.4,807.1 to 7672.6,807.1 nohead lc 3 lw 2
+set arrow from 7672.6,807.1 to 7672.6,724.9 nohead lc 3 lw 2
+set arrow from 7672.6,724.9 to 7590.4,724.9 nohead lc 3 lw 2
+set label "p94" at 7631.5,766 front center font ",36"
+set arrow from 7464.5,0 to 7464.5,4 nohead lc 6 lw 2
+set arrow from 7464.5,4 to 7483.5,4 nohead lc 6 lw 2
+set arrow from 7483.5,4 to 7483.5,0 nohead lc 6 lw 2
+set arrow from 7483.5,0 to 7464.5,0 nohead lc 6 lw 2
+set label "v91" at 7474,2 front center font ",36"
+set arrow from 7590.4,442.9 to 7590.4,525.1 nohead lc 3 lw 2
+set arrow from 7590.4,525.1 to 7672.6,525.1 nohead lc 3 lw 2
+set arrow from 7672.6,525.1 to 7672.6,442.9 nohead lc 3 lw 2
+set arrow from 7672.6,442.9 to 7590.4,442.9 nohead lc 3 lw 2
+set label "p95" at 7631.5,484 front center font ",36"
+set arrow from 7364.5,0 to 7364.5,4 nohead lc 6 lw 2
+set arrow from 7364.5,4 to 7383.5,4 nohead lc 6 lw 2
+set arrow from 7383.5,4 to 7383.5,0 nohead lc 6 lw 2
+set arrow from 7383.5,0 to 7364.5,0 nohead lc 6 lw 2
+set label "v92" at 7374,2 front center font ",36"
+set arrow from 7590.4,301.9 to 7590.4,384.1 nohead lc 3 lw 2
+set arrow from 7590.4,384.1 to 7672.6,384.1 nohead lc 3 lw 2
+set arrow from 7672.6,384.1 to 7672.6,301.9 nohead lc 3 lw 2
+set arrow from 7672.6,301.9 to 7590.4,301.9 nohead lc 3 lw 2
+set label "p96" at 7631.5,343 front center font ",36"
+set arrow from 7330.5,0 to 7330.5,4 nohead lc 6 lw 2
+set arrow from 7330.5,4 to 7349.5,4 nohead lc 6 lw 2
+set arrow from 7349.5,4 to 7349.5,0 nohead lc 6 lw 2
+set arrow from 7349.5,0 to 7330.5,0 nohead lc 6 lw 2
+set label "v93" at 7340,2 front center font ",36"
+set arrow from 7590.4,160.9 to 7590.4,243.1 nohead lc 3 lw 2
+set arrow from 7590.4,243.1 to 7672.6,243.1 nohead lc 3 lw 2
+set arrow from 7672.6,243.1 to 7672.6,160.9 nohead lc 3 lw 2
+set arrow from 7672.6,160.9 to 7590.4,160.9 nohead lc 3 lw 2
+set label "p97" at 7631.5,202 front center font ",36"
+set arrow from 7296.5,0 to 7296.5,4 nohead lc 6 lw 2
+set arrow from 7296.5,4 to 7315.5,4 nohead lc 6 lw 2
+set arrow from 7315.5,4 to 7315.5,0 nohead lc 6 lw 2
+set arrow from 7315.5,0 to 7296.5,0 nohead lc 6 lw 2
+set label "v94" at 7306,2 front center font ",36"
+set arrow from 7449.4,583.9 to 7449.4,666.1 nohead lc 3 lw 2
+set arrow from 7449.4,666.1 to 7531.6,666.1 nohead lc 3 lw 2
+set arrow from 7531.6,666.1 to 7531.6,583.9 nohead lc 3 lw 2
+set arrow from 7531.6,583.9 to 7449.4,583.9 nohead lc 3 lw 2
+set label "p98" at 7490.5,625 front center font ",36"
+set arrow from 7229.5,0 to 7229.5,4 nohead lc 6 lw 2
+set arrow from 7229.5,4 to 7248.5,4 nohead lc 6 lw 2
+set arrow from 7248.5,4 to 7248.5,0 nohead lc 6 lw 2
+set arrow from 7248.5,0 to 7229.5,0 nohead lc 6 lw 2
+set label "v95" at 7239,2 front center font ",36"
+set arrow from 7449.4,301.9 to 7449.4,384.1 nohead lc 3 lw 2
+set arrow from 7449.4,384.1 to 7531.6,384.1 nohead lc 3 lw 2
+set arrow from 7531.6,384.1 to 7531.6,301.9 nohead lc 3 lw 2
+set arrow from 7531.6,301.9 to 7449.4,301.9 nohead lc 3 lw 2
+set label "p99" at 7490.5,343 front center font ",36"
+set arrow from 7195.5,0 to 7195.5,4 nohead lc 6 lw 2
+set arrow from 7195.5,4 to 7214.5,4 nohead lc 6 lw 2
+set arrow from 7214.5,4 to 7214.5,0 nohead lc 6 lw 2
+set arrow from 7214.5,0 to 7195.5,0 nohead lc 6 lw 2
+set label "v96" at 7205,2 front center font ",36"
+set arrow from 7308.4,724.9 to 7308.4,807.1 nohead lc 3 lw 2
+set arrow from 7308.4,807.1 to 7390.6,807.1 nohead lc 3 lw 2
+set arrow from 7390.6,807.1 to 7390.6,724.9 nohead lc 3 lw 2
+set arrow from 7390.6,724.9 to 7308.4,724.9 nohead lc 3 lw 2
+set label "p100" at 7349.5,766 front center font ",36"
+set arrow from 7161.5,0 to 7161.5,4 nohead lc 6 lw 2
+set arrow from 7161.5,4 to 7180.5,4 nohead lc 6 lw 2
+set arrow from 7180.5,4 to 7180.5,0 nohead lc 6 lw 2
+set arrow from 7180.5,0 to 7161.5,0 nohead lc 6 lw 2
+set label "v97" at 7171,2 front center font ",36"
+set arrow from 7308.4,442.9 to 7308.4,525.1 nohead lc 3 lw 2
+set arrow from 7308.4,525.1 to 7390.6,525.1 nohead lc 3 lw 2
+set arrow from 7390.6,525.1 to 7390.6,442.9 nohead lc 3 lw 2
+set arrow from 7390.6,442.9 to 7308.4,442.9 nohead lc 3 lw 2
+set label "p101" at 7349.5,484 front center font ",36"
+set arrow from 7094.5,0 to 7094.5,4 nohead lc 6 lw 2
+set arrow from 7094.5,4 to 7113.5,4 nohead lc 6 lw 2
+set arrow from 7113.5,4 to 7113.5,0 nohead lc 6 lw 2
+set arrow from 7113.5,0 to 7094.5,0 nohead lc 6 lw 2
+set label "v98" at 7104,2 front center font ",36"
+set arrow from 7308.4,160.9 to 7308.4,243.1 nohead lc 3 lw 2
+set arrow from 7308.4,243.1 to 7390.6,243.1 nohead lc 3 lw 2
+set arrow from 7390.6,243.1 to 7390.6,160.9 nohead lc 3 lw 2
+set arrow from 7390.6,160.9 to 7308.4,160.9 nohead lc 3 lw 2
+set label "p102" at 7349.5,202 front center font ",36"
+set arrow from 7060.5,0 to 7060.5,4 nohead lc 6 lw 2
+set arrow from 7060.5,4 to 7079.5,4 nohead lc 6 lw 2
+set arrow from 7079.5,4 to 7079.5,0 nohead lc 6 lw 2
+set arrow from 7079.5,0 to 7060.5,0 nohead lc 6 lw 2
+set label "v99" at 7070,2 front center font ",36"
+set arrow from 7167.4,583.9 to 7167.4,666.1 nohead lc 3 lw 2
+set arrow from 7167.4,666.1 to 7249.6,666.1 nohead lc 3 lw 2
+set arrow from 7249.6,666.1 to 7249.6,583.9 nohead lc 3 lw 2
+set arrow from 7249.6,583.9 to 7167.4,583.9 nohead lc 3 lw 2
+set label "p103" at 7208.5,625 front center font ",36"
+set arrow from 6960.5,0 to 6960.5,4 nohead lc 6 lw 2
+set arrow from 6960.5,4 to 6979.5,4 nohead lc 6 lw 2
+set arrow from 6979.5,4 to 6979.5,0 nohead lc 6 lw 2
+set arrow from 6979.5,0 to 6960.5,0 nohead lc 6 lw 2
+set label "v100" at 6970,2 front center font ",36"
+set arrow from 7167.4,442.9 to 7167.4,525.1 nohead lc 3 lw 2
+set arrow from 7167.4,525.1 to 7249.6,525.1 nohead lc 3 lw 2
+set arrow from 7249.6,525.1 to 7249.6,442.9 nohead lc 3 lw 2
+set arrow from 7249.6,442.9 to 7167.4,442.9 nohead lc 3 lw 2
+set label "p104" at 7208.5,484 front center font ",36"
+set arrow from 6926.5,0 to 6926.5,4 nohead lc 6 lw 2
+set arrow from 6926.5,4 to 6945.5,4 nohead lc 6 lw 2
+set arrow from 6945.5,4 to 6945.5,0 nohead lc 6 lw 2
+set arrow from 6945.5,0 to 6926.5,0 nohead lc 6 lw 2
+set label "v101" at 6936,2 front center font ",36"
+set arrow from 7167.4,301.9 to 7167.4,384.1 nohead lc 3 lw 2
+set arrow from 7167.4,384.1 to 7249.6,384.1 nohead lc 3 lw 2
+set arrow from 7249.6,384.1 to 7249.6,301.9 nohead lc 3 lw 2
+set arrow from 7249.6,301.9 to 7167.4,301.9 nohead lc 3 lw 2
+set label "p105" at 7208.5,343 front center font ",36"
+set arrow from 6892.5,0 to 6892.5,4 nohead lc 6 lw 2
+set arrow from 6892.5,4 to 6911.5,4 nohead lc 6 lw 2
+set arrow from 6911.5,4 to 6911.5,0 nohead lc 6 lw 2
+set arrow from 6911.5,0 to 6892.5,0 nohead lc 6 lw 2
+set label "v102" at 6902,2 front center font ",36"
+set arrow from 7167.4,160.9 to 7167.4,243.1 nohead lc 3 lw 2
+set arrow from 7167.4,243.1 to 7249.6,243.1 nohead lc 3 lw 2
+set arrow from 7249.6,243.1 to 7249.6,160.9 nohead lc 3 lw 2
+set arrow from 7249.6,160.9 to 7167.4,160.9 nohead lc 3 lw 2
+set label "p106" at 7208.5,202 front center font ",36"
+set arrow from 6858.5,0 to 6858.5,4 nohead lc 6 lw 2
+set arrow from 6858.5,4 to 6877.5,4 nohead lc 6 lw 2
+set arrow from 6877.5,4 to 6877.5,0 nohead lc 6 lw 2
+set arrow from 6877.5,0 to 6858.5,0 nohead lc 6 lw 2
+set label "v103" at 6868,2 front center font ",36"
+set arrow from 7026.4,442.9 to 7026.4,525.1 nohead lc 3 lw 2
+set arrow from 7026.4,525.1 to 7108.6,525.1 nohead lc 3 lw 2
+set arrow from 7108.6,525.1 to 7108.6,442.9 nohead lc 3 lw 2
+set arrow from 7108.6,442.9 to 7026.4,442.9 nohead lc 3 lw 2
+set label "p107" at 7067.5,484 front center font ",36"
+set arrow from 6791.5,0 to 6791.5,4 nohead lc 6 lw 2
+set arrow from 6791.5,4 to 6810.5,4 nohead lc 6 lw 2
+set arrow from 6810.5,4 to 6810.5,0 nohead lc 6 lw 2
+set arrow from 6810.5,0 to 6791.5,0 nohead lc 6 lw 2
+set label "v104" at 6801,2 front center font ",36"
+set arrow from 7026.4,160.9 to 7026.4,243.1 nohead lc 3 lw 2
+set arrow from 7026.4,243.1 to 7108.6,243.1 nohead lc 3 lw 2
+set arrow from 7108.6,243.1 to 7108.6,160.9 nohead lc 3 lw 2
+set arrow from 7108.6,160.9 to 7026.4,160.9 nohead lc 3 lw 2
+set label "p108" at 7067.5,202 front center font ",36"
+set arrow from 6757.5,0 to 6757.5,4 nohead lc 6 lw 2
+set arrow from 6757.5,4 to 6776.5,4 nohead lc 6 lw 2
+set arrow from 6776.5,4 to 6776.5,0 nohead lc 6 lw 2
+set arrow from 6776.5,0 to 6757.5,0 nohead lc 6 lw 2
+set label "v105" at 6767,2 front center font ",36"
+set arrow from 6885.4,583.9 to 6885.4,666.1 nohead lc 3 lw 2
+set arrow from 6885.4,666.1 to 6967.6,666.1 nohead lc 3 lw 2
+set arrow from 6967.6,666.1 to 6967.6,583.9 nohead lc 3 lw 2
+set arrow from 6967.6,583.9 to 6885.4,583.9 nohead lc 3 lw 2
+set label "p109" at 6926.5,625 front center font ",36"
+set arrow from 6723.5,0 to 6723.5,4 nohead lc 6 lw 2
+set arrow from 6723.5,4 to 6742.5,4 nohead lc 6 lw 2
+set arrow from 6742.5,4 to 6742.5,0 nohead lc 6 lw 2
+set arrow from 6742.5,0 to 6723.5,0 nohead lc 6 lw 2
+set label "v106" at 6733,2 front center font ",36"
+set arrow from 6885.4,301.9 to 6885.4,384.1 nohead lc 3 lw 2
+set arrow from 6885.4,384.1 to 6967.6,384.1 nohead lc 3 lw 2
+set arrow from 6967.6,384.1 to 6967.6,301.9 nohead lc 3 lw 2
+set arrow from 6967.6,301.9 to 6885.4,301.9 nohead lc 3 lw 2
+set label "p110" at 6926.5,343 front center font ",36"
+set arrow from 6656.5,0 to 6656.5,4 nohead lc 6 lw 2
+set arrow from 6656.5,4 to 6675.5,4 nohead lc 6 lw 2
+set arrow from 6675.5,4 to 6675.5,0 nohead lc 6 lw 2
+set arrow from 6675.5,0 to 6656.5,0 nohead lc 6 lw 2
+set label "v107" at 6666,2 front center font ",36"
+set arrow from 6744.4,724.9 to 6744.4,807.1 nohead lc 3 lw 2
+set arrow from 6744.4,807.1 to 6826.6,807.1 nohead lc 3 lw 2
+set arrow from 6826.6,807.1 to 6826.6,724.9 nohead lc 3 lw 2
+set arrow from 6826.6,724.9 to 6744.4,724.9 nohead lc 3 lw 2
+set label "p111" at 6785.5,766 front center font ",36"
+set arrow from 6622.5,0 to 6622.5,4 nohead lc 6 lw 2
+set arrow from 6622.5,4 to 6641.5,4 nohead lc 6 lw 2
+set arrow from 6641.5,4 to 6641.5,0 nohead lc 6 lw 2
+set arrow from 6641.5,0 to 6622.5,0 nohead lc 6 lw 2
+set label "v108" at 6632,2 front center font ",36"
+set arrow from 6744.4,442.9 to 6744.4,525.1 nohead lc 3 lw 2
+set arrow from 6744.4,525.1 to 6826.6,525.1 nohead lc 3 lw 2
+set arrow from 6826.6,525.1 to 6826.6,442.9 nohead lc 3 lw 2
+set arrow from 6826.6,442.9 to 6744.4,442.9 nohead lc 3 lw 2
+set label "p112" at 6785.5,484 front center font ",36"
+set arrow from 6588.5,0 to 6588.5,4 nohead lc 6 lw 2
+set arrow from 6588.5,4 to 6607.5,4 nohead lc 6 lw 2
+set arrow from 6607.5,4 to 6607.5,0 nohead lc 6 lw 2
+set arrow from 6607.5,0 to 6588.5,0 nohead lc 6 lw 2
+set label "v109" at 6598,2 front center font ",36"
+set arrow from 6744.4,160.9 to 6744.4,243.1 nohead lc 3 lw 2
+set arrow from 6744.4,243.1 to 6826.6,243.1 nohead lc 3 lw 2
+set arrow from 6826.6,243.1 to 6826.6,160.9 nohead lc 3 lw 2
+set arrow from 6826.6,160.9 to 6744.4,160.9 nohead lc 3 lw 2
+set label "p113" at 6785.5,202 front center font ",36"
+set arrow from 6521.5,0 to 6521.5,4 nohead lc 6 lw 2
+set arrow from 6521.5,4 to 6540.5,4 nohead lc 6 lw 2
+set arrow from 6540.5,4 to 6540.5,0 nohead lc 6 lw 2
+set arrow from 6540.5,0 to 6521.5,0 nohead lc 6 lw 2
+set label "v110" at 6531,2 front center font ",36"
+set arrow from 6603.4,583.9 to 6603.4,666.1 nohead lc 3 lw 2
+set arrow from 6603.4,666.1 to 6685.6,666.1 nohead lc 3 lw 2
+set arrow from 6685.6,666.1 to 6685.6,583.9 nohead lc 3 lw 2
+set arrow from 6685.6,583.9 to 6603.4,583.9 nohead lc 3 lw 2
+set label "p114" at 6644.5,625 front center font ",36"
+set arrow from 6487.5,0 to 6487.5,4 nohead lc 6 lw 2
+set arrow from 6487.5,4 to 6506.5,4 nohead lc 6 lw 2
+set arrow from 6506.5,4 to 6506.5,0 nohead lc 6 lw 2
+set arrow from 6506.5,0 to 6487.5,0 nohead lc 6 lw 2
+set label "v111" at 6497,2 front center font ",36"
+set arrow from 6603.4,301.9 to 6603.4,384.1 nohead lc 3 lw 2
+set arrow from 6603.4,384.1 to 6685.6,384.1 nohead lc 3 lw 2
+set arrow from 6685.6,384.1 to 6685.6,301.9 nohead lc 3 lw 2
+set arrow from 6685.6,301.9 to 6603.4,301.9 nohead lc 3 lw 2
+set label "p115" at 6644.5,343 front center font ",36"
+set arrow from 6420.5,0 to 6420.5,4 nohead lc 6 lw 2
+set arrow from 6420.5,4 to 6439.5,4 nohead lc 6 lw 2
+set arrow from 6439.5,4 to 6439.5,0 nohead lc 6 lw 2
+set arrow from 6439.5,0 to 6420.5,0 nohead lc 6 lw 2
+set label "v112" at 6430,2 front center font ",36"
+set arrow from 6462.4,724.9 to 6462.4,807.1 nohead lc 3 lw 2
+set arrow from 6462.4,807.1 to 6544.6,807.1 nohead lc 3 lw 2
+set arrow from 6544.6,807.1 to 6544.6,724.9 nohead lc 3 lw 2
+set arrow from 6544.6,724.9 to 6462.4,724.9 nohead lc 3 lw 2
+set label "p116" at 6503.5,766 front center font ",36"
+set arrow from 6386.5,0 to 6386.5,4 nohead lc 6 lw 2
+set arrow from 6386.5,4 to 6405.5,4 nohead lc 6 lw 2
+set arrow from 6405.5,4 to 6405.5,0 nohead lc 6 lw 2
+set arrow from 6405.5,0 to 6386.5,0 nohead lc 6 lw 2
+set label "v113" at 6396,2 front center font ",36"
+set arrow from 6462.4,442.9 to 6462.4,525.1 nohead lc 3 lw 2
+set arrow from 6462.4,525.1 to 6544.6,525.1 nohead lc 3 lw 2
+set arrow from 6544.6,525.1 to 6544.6,442.9 nohead lc 3 lw 2
+set arrow from 6544.6,442.9 to 6462.4,442.9 nohead lc 3 lw 2
+set label "p117" at 6503.5,484 front center font ",36"
+set arrow from 6352.5,0 to 6352.5,4 nohead lc 6 lw 2
+set arrow from 6352.5,4 to 6371.5,4 nohead lc 6 lw 2
+set arrow from 6371.5,4 to 6371.5,0 nohead lc 6 lw 2
+set arrow from 6371.5,0 to 6352.5,0 nohead lc 6 lw 2
+set label "v114" at 6362,2 front center font ",36"
+set arrow from 6462.4,160.9 to 6462.4,243.1 nohead lc 3 lw 2
+set arrow from 6462.4,243.1 to 6544.6,243.1 nohead lc 3 lw 2
+set arrow from 6544.6,243.1 to 6544.6,160.9 nohead lc 3 lw 2
+set arrow from 6544.6,160.9 to 6462.4,160.9 nohead lc 3 lw 2
+set label "p118" at 6503.5,202 front center font ",36"
+set arrow from 6318.5,0 to 6318.5,4 nohead lc 6 lw 2
+set arrow from 6318.5,4 to 6337.5,4 nohead lc 6 lw 2
+set arrow from 6337.5,4 to 6337.5,0 nohead lc 6 lw 2
+set arrow from 6337.5,0 to 6318.5,0 nohead lc 6 lw 2
+set label "v115" at 6328,2 front center font ",36"
+set arrow from 6321.4,724.9 to 6321.4,807.1 nohead lc 3 lw 2
+set arrow from 6321.4,807.1 to 6403.6,807.1 nohead lc 3 lw 2
+set arrow from 6403.6,807.1 to 6403.6,724.9 nohead lc 3 lw 2
+set arrow from 6403.6,724.9 to 6321.4,724.9 nohead lc 3 lw 2
+set label "p119" at 6362.5,766 front center font ",36"
+set arrow from 6251.5,0 to 6251.5,4 nohead lc 6 lw 2
+set arrow from 6251.5,4 to 6270.5,4 nohead lc 6 lw 2
+set arrow from 6270.5,4 to 6270.5,0 nohead lc 6 lw 2
+set arrow from 6270.5,0 to 6251.5,0 nohead lc 6 lw 2
+set label "v116" at 6261,2 front center font ",36"
+set arrow from 6321.4,583.9 to 6321.4,666.1 nohead lc 3 lw 2
+set arrow from 6321.4,666.1 to 6403.6,666.1 nohead lc 3 lw 2
+set arrow from 6403.6,666.1 to 6403.6,583.9 nohead lc 3 lw 2
+set arrow from 6403.6,583.9 to 6321.4,583.9 nohead lc 3 lw 2
+set label "p120" at 6362.5,625 front center font ",36"
+set arrow from 6217.5,0 to 6217.5,4 nohead lc 6 lw 2
+set arrow from 6217.5,4 to 6236.5,4 nohead lc 6 lw 2
+set arrow from 6236.5,4 to 6236.5,0 nohead lc 6 lw 2
+set arrow from 6236.5,0 to 6217.5,0 nohead lc 6 lw 2
+set label "v117" at 6227,2 front center font ",36"
+set arrow from 6321.4,442.9 to 6321.4,525.1 nohead lc 3 lw 2
+set arrow from 6321.4,525.1 to 6403.6,525.1 nohead lc 3 lw 2
+set arrow from 6403.6,525.1 to 6403.6,442.9 nohead lc 3 lw 2
+set arrow from 6403.6,442.9 to 6321.4,442.9 nohead lc 3 lw 2
+set label "p121" at 6362.5,484 front center font ",36"
+set arrow from 6183.5,0 to 6183.5,4 nohead lc 6 lw 2
+set arrow from 6183.5,4 to 6202.5,4 nohead lc 6 lw 2
+set arrow from 6202.5,4 to 6202.5,0 nohead lc 6 lw 2
+set arrow from 6202.5,0 to 6183.5,0 nohead lc 6 lw 2
+set label "v118" at 6193,2 front center font ",36"
+set arrow from 6321.4,160.9 to 6321.4,243.1 nohead lc 3 lw 2
+set arrow from 6321.4,243.1 to 6403.6,243.1 nohead lc 3 lw 2
+set arrow from 6403.6,243.1 to 6403.6,160.9 nohead lc 3 lw 2
+set arrow from 6403.6,160.9 to 6321.4,160.9 nohead lc 3 lw 2
+set label "p122" at 6362.5,202 front center font ",36"
+set arrow from 6116.5,0 to 6116.5,4 nohead lc 6 lw 2
+set arrow from 6116.5,4 to 6135.5,4 nohead lc 6 lw 2
+set arrow from 6135.5,4 to 6135.5,0 nohead lc 6 lw 2
+set arrow from 6135.5,0 to 6116.5,0 nohead lc 6 lw 2
+set label "v119" at 6126,2 front center font ",36"
+set arrow from 6180.4,724.9 to 6180.4,807.1 nohead lc 3 lw 2
+set arrow from 6180.4,807.1 to 6262.6,807.1 nohead lc 3 lw 2
+set arrow from 6262.6,807.1 to 6262.6,724.9 nohead lc 3 lw 2
+set arrow from 6262.6,724.9 to 6180.4,724.9 nohead lc 3 lw 2
+set label "p123" at 6221.5,766 front center font ",36"
+set arrow from 6082.5,0 to 6082.5,4 nohead lc 6 lw 2
+set arrow from 6082.5,4 to 6101.5,4 nohead lc 6 lw 2
+set arrow from 6101.5,4 to 6101.5,0 nohead lc 6 lw 2
+set arrow from 6101.5,0 to 6082.5,0 nohead lc 6 lw 2
+set label "v120" at 6092,2 front center font ",36"
+set arrow from 6180.4,442.9 to 6180.4,525.1 nohead lc 3 lw 2
+set arrow from 6180.4,525.1 to 6262.6,525.1 nohead lc 3 lw 2
+set arrow from 6262.6,525.1 to 6262.6,442.9 nohead lc 3 lw 2
+set arrow from 6262.6,442.9 to 6180.4,442.9 nohead lc 3 lw 2
+set label "p124" at 6221.5,484 front center font ",36"
+set arrow from 6048.5,0 to 6048.5,4 nohead lc 6 lw 2
+set arrow from 6048.5,4 to 6067.5,4 nohead lc 6 lw 2
+set arrow from 6067.5,4 to 6067.5,0 nohead lc 6 lw 2
+set arrow from 6067.5,0 to 6048.5,0 nohead lc 6 lw 2
+set label "v121" at 6058,2 front center font ",36"
+set arrow from 6180.4,160.9 to 6180.4,243.1 nohead lc 3 lw 2
+set arrow from 6180.4,243.1 to 6262.6,243.1 nohead lc 3 lw 2
+set arrow from 6262.6,243.1 to 6262.6,160.9 nohead lc 3 lw 2
+set arrow from 6262.6,160.9 to 6180.4,160.9 nohead lc 3 lw 2
+set label "p125" at 6221.5,202 front center font ",36"
+set arrow from 5981.5,0 to 5981.5,4 nohead lc 6 lw 2
+set arrow from 5981.5,4 to 6000.5,4 nohead lc 6 lw 2
+set arrow from 6000.5,4 to 6000.5,0 nohead lc 6 lw 2
+set arrow from 6000.5,0 to 5981.5,0 nohead lc 6 lw 2
+set label "v122" at 5991,2 front center font ",36"
+set arrow from 6039.4,583.9 to 6039.4,666.1 nohead lc 3 lw 2
+set arrow from 6039.4,666.1 to 6121.6,666.1 nohead lc 3 lw 2
+set arrow from 6121.6,666.1 to 6121.6,583.9 nohead lc 3 lw 2
+set arrow from 6121.6,583.9 to 6039.4,583.9 nohead lc 3 lw 2
+set label "p126" at 6080.5,625 front center font ",36"
+set arrow from 5947.5,0 to 5947.5,4 nohead lc 6 lw 2
+set arrow from 5947.5,4 to 5966.5,4 nohead lc 6 lw 2
+set arrow from 5966.5,4 to 5966.5,0 nohead lc 6 lw 2
+set arrow from 5966.5,0 to 5947.5,0 nohead lc 6 lw 2
+set label "v123" at 5957,2 front center font ",36"
+set arrow from 6039.4,301.9 to 6039.4,384.1 nohead lc 3 lw 2
+set arrow from 6039.4,384.1 to 6121.6,384.1 nohead lc 3 lw 2
+set arrow from 6121.6,384.1 to 6121.6,301.9 nohead lc 3 lw 2
+set arrow from 6121.6,301.9 to 6039.4,301.9 nohead lc 3 lw 2
+set label "p127" at 6080.5,343 front center font ",36"
+set arrow from 5880.5,0 to 5880.5,4 nohead lc 6 lw 2
+set arrow from 5880.5,4 to 5899.5,4 nohead lc 6 lw 2
+set arrow from 5899.5,4 to 5899.5,0 nohead lc 6 lw 2
+set arrow from 5899.5,0 to 5880.5,0 nohead lc 6 lw 2
+set label "v124" at 5890,2 front center font ",36"
+set arrow from 5898.4,724.9 to 5898.4,807.1 nohead lc 3 lw 2
+set arrow from 5898.4,807.1 to 5980.6,807.1 nohead lc 3 lw 2
+set arrow from 5980.6,807.1 to 5980.6,724.9 nohead lc 3 lw 2
+set arrow from 5980.6,724.9 to 5898.4,724.9 nohead lc 3 lw 2
+set label "p128" at 5939.5,766 front center font ",36"
+set arrow from 5846.5,0 to 5846.5,4 nohead lc 6 lw 2
+set arrow from 5846.5,4 to 5865.5,4 nohead lc 6 lw 2
+set arrow from 5865.5,4 to 5865.5,0 nohead lc 6 lw 2
+set arrow from 5865.5,0 to 5846.5,0 nohead lc 6 lw 2
+set label "v125" at 5856,2 front center font ",36"
+set arrow from 5898.4,442.9 to 5898.4,525.1 nohead lc 3 lw 2
+set arrow from 5898.4,525.1 to 5980.6,525.1 nohead lc 3 lw 2
+set arrow from 5980.6,525.1 to 5980.6,442.9 nohead lc 3 lw 2
+set arrow from 5980.6,442.9 to 5898.4,442.9 nohead lc 3 lw 2
+set label "p129" at 5939.5,484 front center font ",36"
+set arrow from 5812.5,0 to 5812.5,4 nohead lc 6 lw 2
+set arrow from 5812.5,4 to 5831.5,4 nohead lc 6 lw 2
+set arrow from 5831.5,4 to 5831.5,0 nohead lc 6 lw 2
+set arrow from 5831.5,0 to 5812.5,0 nohead lc 6 lw 2
+set label "v126" at 5822,2 front center font ",36"
+set arrow from 8859.4,160.9 to 8859.4,243.1 nohead lc 3 lw 2
+set arrow from 8859.4,243.1 to 8941.6,243.1 nohead lc 3 lw 2
+set arrow from 8941.6,243.1 to 8941.6,160.9 nohead lc 3 lw 2
+set arrow from 8941.6,160.9 to 8859.4,160.9 nohead lc 3 lw 2
+set label "p134" at 8900.5,202 front center font ",36"
+set arrow from 8794.5,0 to 8794.5,4 nohead lc 6 lw 2
+set arrow from 8794.5,4 to 8813.5,4 nohead lc 6 lw 2
+set arrow from 8813.5,4 to 8813.5,0 nohead lc 6 lw 2
+set arrow from 8813.5,0 to 8794.5,0 nohead lc 6 lw 2
+set label "v132" at 8804,2 front center font ",36"
+set arrow from 8718.4,160.9 to 8718.4,243.1 nohead lc 3 lw 2
+set arrow from 8718.4,243.1 to 8800.6,243.1 nohead lc 3 lw 2
+set arrow from 8800.6,243.1 to 8800.6,160.9 nohead lc 3 lw 2
+set arrow from 8800.6,160.9 to 8718.4,160.9 nohead lc 3 lw 2
+set label "p135" at 8759.5,202 front center font ",36"
+set arrow from 8661.5,0 to 8661.5,4 nohead lc 6 lw 2
+set arrow from 8661.5,4 to 8680.5,4 nohead lc 6 lw 2
+set arrow from 8680.5,4 to 8680.5,0 nohead lc 6 lw 2
+set arrow from 8680.5,0 to 8661.5,0 nohead lc 6 lw 2
+set label "v133" at 8671,2 front center font ",36"
+set arrow from 8577.4,301.9 to 8577.4,384.1 nohead lc 3 lw 2
+set arrow from 8577.4,384.1 to 8659.6,384.1 nohead lc 3 lw 2
+set arrow from 8659.6,384.1 to 8659.6,301.9 nohead lc 3 lw 2
+set arrow from 8659.6,301.9 to 8577.4,301.9 nohead lc 3 lw 2
+set label "p136" at 8618.5,343 front center font ",36"
+set arrow from 8627.5,0 to 8627.5,4 nohead lc 6 lw 2
+set arrow from 8627.5,4 to 8646.5,4 nohead lc 6 lw 2
+set arrow from 8646.5,4 to 8646.5,0 nohead lc 6 lw 2
+set arrow from 8646.5,0 to 8627.5,0 nohead lc 6 lw 2
+set label "v134" at 8637,2 front center font ",36"
+set arrow from 8577.4,160.9 to 8577.4,243.1 nohead lc 3 lw 2
+set arrow from 8577.4,243.1 to 8659.6,243.1 nohead lc 3 lw 2
+set arrow from 8659.6,243.1 to 8659.6,160.9 nohead lc 3 lw 2
+set arrow from 8659.6,160.9 to 8577.4,160.9 nohead lc 3 lw 2
+set label "p137" at 8618.5,202 front center font ",36"
+set arrow from 8560.5,0 to 8560.5,4 nohead lc 6 lw 2
+set arrow from 8560.5,4 to 8579.5,4 nohead lc 6 lw 2
+set arrow from 8579.5,4 to 8579.5,0 nohead lc 6 lw 2
+set arrow from 8579.5,0 to 8560.5,0 nohead lc 6 lw 2
+set label "v135" at 8570,2 front center font ",36"
+set arrow from 8436.4,442.9 to 8436.4,525.1 nohead lc 3 lw 2
+set arrow from 8436.4,525.1 to 8518.6,525.1 nohead lc 3 lw 2
+set arrow from 8518.6,525.1 to 8518.6,442.9 nohead lc 3 lw 2
+set arrow from 8518.6,442.9 to 8436.4,442.9 nohead lc 3 lw 2
+set label "p138" at 8477.5,484 front center font ",36"
+set arrow from 8526.5,0 to 8526.5,4 nohead lc 6 lw 2
+set arrow from 8526.5,4 to 8545.5,4 nohead lc 6 lw 2
+set arrow from 8545.5,4 to 8545.5,0 nohead lc 6 lw 2
+set arrow from 8545.5,0 to 8526.5,0 nohead lc 6 lw 2
+set label "v136" at 8536,2 front center font ",36"
+set arrow from 8436.4,160.9 to 8436.4,243.1 nohead lc 3 lw 2
+set arrow from 8436.4,243.1 to 8518.6,243.1 nohead lc 3 lw 2
+set arrow from 8518.6,243.1 to 8518.6,160.9 nohead lc 3 lw 2
+set arrow from 8518.6,160.9 to 8436.4,160.9 nohead lc 3 lw 2
+set label "p139" at 8477.5,202 front center font ",36"
+set arrow from 8426.5,0 to 8426.5,4 nohead lc 6 lw 2
+set arrow from 8426.5,4 to 8445.5,4 nohead lc 6 lw 2
+set arrow from 8445.5,4 to 8445.5,0 nohead lc 6 lw 2
+set arrow from 8445.5,0 to 8426.5,0 nohead lc 6 lw 2
+set label "v137" at 8436,2 front center font ",36"
+set arrow from 8295.4,724.9 to 8295.4,807.1 nohead lc 3 lw 2
+set arrow from 8295.4,807.1 to 8377.6,807.1 nohead lc 3 lw 2
+set arrow from 8377.6,807.1 to 8377.6,724.9 nohead lc 3 lw 2
+set arrow from 8377.6,724.9 to 8295.4,724.9 nohead lc 3 lw 2
+set label "p140" at 8336.5,766 front center font ",36"
+set arrow from 8392.5,0 to 8392.5,4 nohead lc 6 lw 2
+set arrow from 8392.5,4 to 8411.5,4 nohead lc 6 lw 2
+set arrow from 8411.5,4 to 8411.5,0 nohead lc 6 lw 2
+set arrow from 8411.5,0 to 8392.5,0 nohead lc 6 lw 2
+set label "v138" at 8402,2 front center font ",36"
+set arrow from 8295.4,442.9 to 8295.4,525.1 nohead lc 3 lw 2
+set arrow from 8295.4,525.1 to 8377.6,525.1 nohead lc 3 lw 2
+set arrow from 8377.6,525.1 to 8377.6,442.9 nohead lc 3 lw 2
+set arrow from 8377.6,442.9 to 8295.4,442.9 nohead lc 3 lw 2
+set label "p141" at 8336.5,484 front center font ",36"
+set arrow from 8358.5,0 to 8358.5,4 nohead lc 6 lw 2
+set arrow from 8358.5,4 to 8377.5,4 nohead lc 6 lw 2
+set arrow from 8377.5,4 to 8377.5,0 nohead lc 6 lw 2
+set arrow from 8377.5,0 to 8358.5,0 nohead lc 6 lw 2
+set label "v139" at 8368,2 front center font ",36"
+set arrow from 8295.4,160.9 to 8295.4,243.1 nohead lc 3 lw 2
+set arrow from 8295.4,243.1 to 8377.6,243.1 nohead lc 3 lw 2
+set arrow from 8377.6,243.1 to 8377.6,160.9 nohead lc 3 lw 2
+set arrow from 8377.6,160.9 to 8295.4,160.9 nohead lc 3 lw 2
+set label "p142" at 8336.5,202 front center font ",36"
+set arrow from 8249,0 to 8249,4 nohead lc 6 lw 2
+set arrow from 8249,4 to 8268,4 nohead lc 6 lw 2
+set arrow from 8268,4 to 8268,0 nohead lc 6 lw 2
+set arrow from 8268,0 to 8249,0 nohead lc 6 lw 2
+set label "v140" at 8258.5,2 front center font ",36"
+set arrow from 8154.4,724.9 to 8154.4,807.1 nohead lc 3 lw 2
+set arrow from 8154.4,807.1 to 8236.6,807.1 nohead lc 3 lw 2
+set arrow from 8236.6,807.1 to 8236.6,724.9 nohead lc 3 lw 2
+set arrow from 8236.6,724.9 to 8154.4,724.9 nohead lc 3 lw 2
+set label "p143" at 8195.5,766 front center font ",36"
+set arrow from 8216,0 to 8216,4 nohead lc 6 lw 2
+set arrow from 8216,4 to 8235,4 nohead lc 6 lw 2
+set arrow from 8235,4 to 8235,0 nohead lc 6 lw 2
+set arrow from 8235,0 to 8216,0 nohead lc 6 lw 2
+set label "v141" at 8225.5,2 front center font ",36"
+set arrow from 8154.4,442.9 to 8154.4,525.1 nohead lc 3 lw 2
+set arrow from 8154.4,525.1 to 8236.6,525.1 nohead lc 3 lw 2
+set arrow from 8236.6,525.1 to 8236.6,442.9 nohead lc 3 lw 2
+set arrow from 8236.6,442.9 to 8154.4,442.9 nohead lc 3 lw 2
+set label "p144" at 8195.5,484 front center font ",36"
+set arrow from 8106.5,0 to 8106.5,4 nohead lc 6 lw 2
+set arrow from 8106.5,4 to 8125.5,4 nohead lc 6 lw 2
+set arrow from 8125.5,4 to 8125.5,0 nohead lc 6 lw 2
+set arrow from 8125.5,0 to 8106.5,0 nohead lc 6 lw 2
+set label "v142" at 8116,2 front center font ",36"
+set arrow from 8154.4,301.9 to 8154.4,384.1 nohead lc 3 lw 2
+set arrow from 8154.4,384.1 to 8236.6,384.1 nohead lc 3 lw 2
+set arrow from 8236.6,384.1 to 8236.6,301.9 nohead lc 3 lw 2
+set arrow from 8236.6,301.9 to 8154.4,301.9 nohead lc 3 lw 2
+set label "p145" at 8195.5,343 front center font ",36"
+set arrow from 8072.5,0 to 8072.5,4 nohead lc 6 lw 2
+set arrow from 8072.5,4 to 8091.5,4 nohead lc 6 lw 2
+set arrow from 8091.5,4 to 8091.5,0 nohead lc 6 lw 2
+set arrow from 8091.5,0 to 8072.5,0 nohead lc 6 lw 2
+set label "v143" at 8082,2 front center font ",36"
+set arrow from 8154.4,160.9 to 8154.4,243.1 nohead lc 3 lw 2
+set arrow from 8154.4,243.1 to 8236.6,243.1 nohead lc 3 lw 2
+set arrow from 8236.6,243.1 to 8236.6,160.9 nohead lc 3 lw 2
+set arrow from 8236.6,160.9 to 8154.4,160.9 nohead lc 3 lw 2
+set label "p146" at 8195.5,202 front center font ",36"
+set arrow from 8038.5,0 to 8038.5,4 nohead lc 6 lw 2
+set arrow from 8038.5,4 to 8057.5,4 nohead lc 6 lw 2
+set arrow from 8057.5,4 to 8057.5,0 nohead lc 6 lw 2
+set arrow from 8057.5,0 to 8038.5,0 nohead lc 6 lw 2
+set label "v144" at 8048,2 front center font ",36"
+set arrow from 8013.4,724.9 to 8013.4,807.1 nohead lc 3 lw 2
+set arrow from 8013.4,807.1 to 8095.6,807.1 nohead lc 3 lw 2
+set arrow from 8095.6,807.1 to 8095.6,724.9 nohead lc 3 lw 2
+set arrow from 8095.6,724.9 to 8013.4,724.9 nohead lc 3 lw 2
+set label "p147" at 8054.5,766 front center font ",36"
+set arrow from 8004.5,0 to 8004.5,4 nohead lc 6 lw 2
+set arrow from 8004.5,4 to 8023.5,4 nohead lc 6 lw 2
+set arrow from 8023.5,4 to 8023.5,0 nohead lc 6 lw 2
+set arrow from 8023.5,0 to 8004.5,0 nohead lc 6 lw 2
+set label "v145" at 8014,2 front center font ",36"
+set arrow from 8013.4,442.9 to 8013.4,525.1 nohead lc 3 lw 2
+set arrow from 8013.4,525.1 to 8095.6,525.1 nohead lc 3 lw 2
+set arrow from 8095.6,525.1 to 8095.6,442.9 nohead lc 3 lw 2
+set arrow from 8095.6,442.9 to 8013.4,442.9 nohead lc 3 lw 2
+set label "p148" at 8054.5,484 front center font ",36"
+set arrow from 7937.5,0 to 7937.5,4 nohead lc 6 lw 2
+set arrow from 7937.5,4 to 7956.5,4 nohead lc 6 lw 2
+set arrow from 7956.5,4 to 7956.5,0 nohead lc 6 lw 2
+set arrow from 7956.5,0 to 7937.5,0 nohead lc 6 lw 2
+set label "v146" at 7947,2 front center font ",36"
+set arrow from 8013.4,301.9 to 8013.4,384.1 nohead lc 3 lw 2
+set arrow from 8013.4,384.1 to 8095.6,384.1 nohead lc 3 lw 2
+set arrow from 8095.6,384.1 to 8095.6,301.9 nohead lc 3 lw 2
+set arrow from 8095.6,301.9 to 8013.4,301.9 nohead lc 3 lw 2
+set label "p149" at 8054.5,343 front center font ",36"
+set arrow from 7903.5,0 to 7903.5,4 nohead lc 6 lw 2
+set arrow from 7903.5,4 to 7922.5,4 nohead lc 6 lw 2
+set arrow from 7922.5,4 to 7922.5,0 nohead lc 6 lw 2
+set arrow from 7922.5,0 to 7903.5,0 nohead lc 6 lw 2
+set label "v147" at 7913,2 front center font ",36"
+set arrow from 8013.4,160.9 to 8013.4,243.1 nohead lc 3 lw 2
+set arrow from 8013.4,243.1 to 8095.6,243.1 nohead lc 3 lw 2
+set arrow from 8095.6,243.1 to 8095.6,160.9 nohead lc 3 lw 2
+set arrow from 8095.6,160.9 to 8013.4,160.9 nohead lc 3 lw 2
+set label "p150" at 8054.5,202 front center font ",36"
+set arrow from 7869.5,0 to 7869.5,4 nohead lc 6 lw 2
+set arrow from 7869.5,4 to 7888.5,4 nohead lc 6 lw 2
+set arrow from 7888.5,4 to 7888.5,0 nohead lc 6 lw 2
+set arrow from 7888.5,0 to 7869.5,0 nohead lc 6 lw 2
+set label "v148" at 7879,2 front center font ",36"
+set arrow from 7872.4,724.9 to 7872.4,807.1 nohead lc 3 lw 2
+set arrow from 7872.4,807.1 to 7954.6,807.1 nohead lc 3 lw 2
+set arrow from 7954.6,807.1 to 7954.6,724.9 nohead lc 3 lw 2
+set arrow from 7954.6,724.9 to 7872.4,724.9 nohead lc 3 lw 2
+set label "p151" at 7913.5,766 front center font ",36"
+set arrow from 7802.5,0 to 7802.5,4 nohead lc 6 lw 2
+set arrow from 7802.5,4 to 7821.5,4 nohead lc 6 lw 2
+set arrow from 7821.5,4 to 7821.5,0 nohead lc 6 lw 2
+set arrow from 7821.5,0 to 7802.5,0 nohead lc 6 lw 2
+set label "v149" at 7812,2 front center font ",36"
+set arrow from 7872.4,442.9 to 7872.4,525.1 nohead lc 3 lw 2
+set arrow from 7872.4,525.1 to 7954.6,525.1 nohead lc 3 lw 2
+set arrow from 7954.6,525.1 to 7954.6,442.9 nohead lc 3 lw 2
+set arrow from 7954.6,442.9 to 7872.4,442.9 nohead lc 3 lw 2
+set label "p152" at 7913.5,484 front center font ",36"
+set arrow from 7768.5,0 to 7768.5,4 nohead lc 6 lw 2
+set arrow from 7768.5,4 to 7787.5,4 nohead lc 6 lw 2
+set arrow from 7787.5,4 to 7787.5,0 nohead lc 6 lw 2
+set arrow from 7787.5,0 to 7768.5,0 nohead lc 6 lw 2
+set label "v150" at 7778,2 front center font ",36"
+set arrow from 7872.4,301.9 to 7872.4,384.1 nohead lc 3 lw 2
+set arrow from 7872.4,384.1 to 7954.6,384.1 nohead lc 3 lw 2
+set arrow from 7954.6,384.1 to 7954.6,301.9 nohead lc 3 lw 2
+set arrow from 7954.6,301.9 to 7872.4,301.9 nohead lc 3 lw 2
+set label "p153" at 7913.5,343 front center font ",36"
+set arrow from 7734.5,0 to 7734.5,4 nohead lc 6 lw 2
+set arrow from 7734.5,4 to 7753.5,4 nohead lc 6 lw 2
+set arrow from 7753.5,4 to 7753.5,0 nohead lc 6 lw 2
+set arrow from 7753.5,0 to 7734.5,0 nohead lc 6 lw 2
+set label "v151" at 7744,2 front center font ",36"
+set arrow from 7872.4,160.9 to 7872.4,243.1 nohead lc 3 lw 2
+set arrow from 7872.4,243.1 to 7954.6,243.1 nohead lc 3 lw 2
+set arrow from 7954.6,243.1 to 7954.6,160.9 nohead lc 3 lw 2
+set arrow from 7954.6,160.9 to 7872.4,160.9 nohead lc 3 lw 2
+set label "p154" at 7913.5,202 front center font ",36"
+set arrow from 7667.5,0 to 7667.5,4 nohead lc 6 lw 2
+set arrow from 7667.5,4 to 7686.5,4 nohead lc 6 lw 2
+set arrow from 7686.5,4 to 7686.5,0 nohead lc 6 lw 2
+set arrow from 7686.5,0 to 7667.5,0 nohead lc 6 lw 2
+set label "v152" at 7677,2 front center font ",36"
+set arrow from 9000.4,160.9 to 9000.4,243.1 nohead lc 3 lw 2
+set arrow from 9000.4,243.1 to 9082.6,243.1 nohead lc 3 lw 2
+set arrow from 9082.6,243.1 to 9082.6,160.9 nohead lc 3 lw 2
+set arrow from 9082.6,160.9 to 9000.4,160.9 nohead lc 3 lw 2
+set label "p158" at 9041.5,202 front center font ",36"
+set arrow from 6321.4,301.9 to 6321.4,384.1 nohead lc 3 lw 2
+set arrow from 6321.4,384.1 to 6403.6,384.1 nohead lc 3 lw 2
+set arrow from 6403.6,384.1 to 6403.6,301.9 nohead lc 3 lw 2
+set arrow from 6403.6,301.9 to 6321.4,301.9 nohead lc 3 lw 2
+set label "p164" at 6362.5,343 front center font ",36"
+set arrow from 8295.4,301.9 to 8295.4,384.1 nohead lc 3 lw 2
+set arrow from 8295.4,384.1 to 8377.6,384.1 nohead lc 3 lw 2
+set arrow from 8377.6,384.1 to 8377.6,301.9 nohead lc 3 lw 2
+set arrow from 8377.6,301.9 to 8295.4,301.9 nohead lc 3 lw 2
+set label "p165" at 8336.5,343 front center font ",36"
+set arrow from 8718.4,301.9 to 8718.4,384.1 nohead lc 3 lw 2
+set arrow from 8718.4,384.1 to 8800.6,384.1 nohead lc 3 lw 2
+set arrow from 8800.6,384.1 to 8800.6,301.9 nohead lc 3 lw 2
+set arrow from 8800.6,301.9 to 8718.4,301.9 nohead lc 3 lw 2
+set label "p166" at 8759.5,343 front center font ",36"
+set arrow from 8859.4,301.9 to 8859.4,384.1 nohead lc 3 lw 2
+set arrow from 8859.4,384.1 to 8941.6,384.1 nohead lc 3 lw 2
+set arrow from 8941.6,384.1 to 8941.6,301.9 nohead lc 3 lw 2
+set arrow from 8941.6,301.9 to 8859.4,301.9 nohead lc 3 lw 2
+set label "p167" at 8900.5,343 front center font ",36"
+set arrow from 5475.4,442.9 to 5475.4,525.1 nohead lc 3 lw 2
+set arrow from 5475.4,525.1 to 5557.6,525.1 nohead lc 3 lw 2
+set arrow from 5557.6,525.1 to 5557.6,442.9 nohead lc 3 lw 2
+set arrow from 5557.6,442.9 to 5475.4,442.9 nohead lc 3 lw 2
+set label "p187" at 5516.5,484 front center font ",36"
+set arrow from 5757.4,442.9 to 5757.4,525.1 nohead lc 3 lw 2
+set arrow from 5757.4,525.1 to 5839.6,525.1 nohead lc 3 lw 2
+set arrow from 5839.6,525.1 to 5839.6,442.9 nohead lc 3 lw 2
+set arrow from 5839.6,442.9 to 5757.4,442.9 nohead lc 3 lw 2
+set label "p188" at 5798.5,484 front center font ",36"
+set arrow from 6039.4,442.9 to 6039.4,525.1 nohead lc 3 lw 2
+set arrow from 6039.4,525.1 to 6121.6,525.1 nohead lc 3 lw 2
+set arrow from 6121.6,525.1 to 6121.6,442.9 nohead lc 3 lw 2
+set arrow from 6121.6,442.9 to 6039.4,442.9 nohead lc 3 lw 2
+set label "p189" at 6080.5,484 front center font ",36"
+set arrow from 6603.4,442.9 to 6603.4,525.1 nohead lc 3 lw 2
+set arrow from 6603.4,525.1 to 6685.6,525.1 nohead lc 3 lw 2
+set arrow from 6685.6,525.1 to 6685.6,442.9 nohead lc 3 lw 2
+set arrow from 6685.6,442.9 to 6603.4,442.9 nohead lc 3 lw 2
+set label "p190" at 6644.5,484 front center font ",36"
+set arrow from 6885.4,442.9 to 6885.4,525.1 nohead lc 3 lw 2
+set arrow from 6885.4,525.1 to 6967.6,525.1 nohead lc 3 lw 2
+set arrow from 6967.6,525.1 to 6967.6,442.9 nohead lc 3 lw 2
+set arrow from 6967.6,442.9 to 6885.4,442.9 nohead lc 3 lw 2
+set label "p191" at 6926.5,484 front center font ",36"
+set arrow from 7449.4,442.9 to 7449.4,525.1 nohead lc 3 lw 2
+set arrow from 7449.4,525.1 to 7531.6,525.1 nohead lc 3 lw 2
+set arrow from 7531.6,525.1 to 7531.6,442.9 nohead lc 3 lw 2
+set arrow from 7531.6,442.9 to 7449.4,442.9 nohead lc 3 lw 2
+set label "p192" at 7490.5,484 front center font ",36"
+set arrow from 8577.4,442.9 to 8577.4,525.1 nohead lc 3 lw 2
+set arrow from 8577.4,525.1 to 8659.6,525.1 nohead lc 3 lw 2
+set arrow from 8659.6,525.1 to 8659.6,442.9 nohead lc 3 lw 2
+set arrow from 8659.6,442.9 to 8577.4,442.9 nohead lc 3 lw 2
+set label "p193" at 8618.5,484 front center font ",36"
+set arrow from 8718.4,442.9 to 8718.4,525.1 nohead lc 3 lw 2
+set arrow from 8718.4,525.1 to 8800.6,525.1 nohead lc 3 lw 2
+set arrow from 8800.6,525.1 to 8800.6,442.9 nohead lc 3 lw 2
+set arrow from 8800.6,442.9 to 8718.4,442.9 nohead lc 3 lw 2
+set label "p194" at 8759.5,484 front center font ",36"
+set arrow from 8859.4,442.9 to 8859.4,525.1 nohead lc 3 lw 2
+set arrow from 8859.4,525.1 to 8941.6,525.1 nohead lc 3 lw 2
+set arrow from 8941.6,525.1 to 8941.6,442.9 nohead lc 3 lw 2
+set arrow from 8941.6,442.9 to 8859.4,442.9 nohead lc 3 lw 2
+set label "p195" at 8900.5,484 front center font ",36"
+set arrow from 5616.4,583.9 to 5616.4,666.1 nohead lc 3 lw 2
+set arrow from 5616.4,666.1 to 5698.6,666.1 nohead lc 3 lw 2
+set arrow from 5698.6,666.1 to 5698.6,583.9 nohead lc 3 lw 2
+set arrow from 5698.6,583.9 to 5616.4,583.9 nohead lc 3 lw 2
+set label "p216" at 5657.5,625 front center font ",36"
+set arrow from 5898.4,583.9 to 5898.4,666.1 nohead lc 3 lw 2
+set arrow from 5898.4,666.1 to 5980.6,666.1 nohead lc 3 lw 2
+set arrow from 5980.6,666.1 to 5980.6,583.9 nohead lc 3 lw 2
+set arrow from 5980.6,583.9 to 5898.4,583.9 nohead lc 3 lw 2
+set label "p217" at 5939.5,625 front center font ",36"
+set arrow from 6180.4,583.9 to 6180.4,666.1 nohead lc 3 lw 2
+set arrow from 6180.4,666.1 to 6262.6,666.1 nohead lc 3 lw 2
+set arrow from 6262.6,666.1 to 6262.6,583.9 nohead lc 3 lw 2
+set arrow from 6262.6,583.9 to 6180.4,583.9 nohead lc 3 lw 2
+set label "p218" at 6221.5,625 front center font ",36"
+set arrow from 6462.4,583.9 to 6462.4,666.1 nohead lc 3 lw 2
+set arrow from 6462.4,666.1 to 6544.6,666.1 nohead lc 3 lw 2
+set arrow from 6544.6,666.1 to 6544.6,583.9 nohead lc 3 lw 2
+set arrow from 6544.6,583.9 to 6462.4,583.9 nohead lc 3 lw 2
+set label "p219" at 6503.5,625 front center font ",36"
+set arrow from 6744.4,583.9 to 6744.4,666.1 nohead lc 3 lw 2
+set arrow from 6744.4,666.1 to 6826.6,666.1 nohead lc 3 lw 2
+set arrow from 6826.6,666.1 to 6826.6,583.9 nohead lc 3 lw 2
+set arrow from 6826.6,583.9 to 6744.4,583.9 nohead lc 3 lw 2
+set label "p220" at 6785.5,625 front center font ",36"
+set arrow from 7026.4,583.9 to 7026.4,666.1 nohead lc 3 lw 2
+set arrow from 7026.4,666.1 to 7108.6,666.1 nohead lc 3 lw 2
+set arrow from 7108.6,666.1 to 7108.6,583.9 nohead lc 3 lw 2
+set arrow from 7108.6,583.9 to 7026.4,583.9 nohead lc 3 lw 2
+set label "p221" at 7067.5,625 front center font ",36"
+set arrow from 7308.4,583.9 to 7308.4,666.1 nohead lc 3 lw 2
+set arrow from 7308.4,666.1 to 7390.6,666.1 nohead lc 3 lw 2
+set arrow from 7390.6,666.1 to 7390.6,583.9 nohead lc 3 lw 2
+set arrow from 7390.6,583.9 to 7308.4,583.9 nohead lc 3 lw 2
+set label "p222" at 7349.5,625 front center font ",36"
+set arrow from 7590.4,583.9 to 7590.4,666.1 nohead lc 3 lw 2
+set arrow from 7590.4,666.1 to 7672.6,666.1 nohead lc 3 lw 2
+set arrow from 7672.6,666.1 to 7672.6,583.9 nohead lc 3 lw 2
+set arrow from 7672.6,583.9 to 7590.4,583.9 nohead lc 3 lw 2
+set label "p223" at 7631.5,625 front center font ",36"
+set arrow from 7731.4,583.9 to 7731.4,666.1 nohead lc 3 lw 2
+set arrow from 7731.4,666.1 to 7813.6,666.1 nohead lc 3 lw 2
+set arrow from 7813.6,666.1 to 7813.6,583.9 nohead lc 3 lw 2
+set arrow from 7813.6,583.9 to 7731.4,583.9 nohead lc 3 lw 2
+set label "p224" at 7772.5,625 front center font ",36"
+set arrow from 7872.4,583.9 to 7872.4,666.1 nohead lc 3 lw 2
+set arrow from 7872.4,666.1 to 7954.6,666.1 nohead lc 3 lw 2
+set arrow from 7954.6,666.1 to 7954.6,583.9 nohead lc 3 lw 2
+set arrow from 7954.6,583.9 to 7872.4,583.9 nohead lc 3 lw 2
+set label "p225" at 7913.5,625 front center font ",36"
+set arrow from 8013.4,583.9 to 8013.4,666.1 nohead lc 3 lw 2
+set arrow from 8013.4,666.1 to 8095.6,666.1 nohead lc 3 lw 2
+set arrow from 8095.6,666.1 to 8095.6,583.9 nohead lc 3 lw 2
+set arrow from 8095.6,583.9 to 8013.4,583.9 nohead lc 3 lw 2
+set label "p226" at 8054.5,625 front center font ",36"
+set arrow from 8154.4,583.9 to 8154.4,666.1 nohead lc 3 lw 2
+set arrow from 8154.4,666.1 to 8236.6,666.1 nohead lc 3 lw 2
+set arrow from 8236.6,666.1 to 8236.6,583.9 nohead lc 3 lw 2
+set arrow from 8236.6,583.9 to 8154.4,583.9 nohead lc 3 lw 2
+set label "p227" at 8195.5,625 front center font ",36"
+set arrow from 8295.4,583.9 to 8295.4,666.1 nohead lc 3 lw 2
+set arrow from 8295.4,666.1 to 8377.6,666.1 nohead lc 3 lw 2
+set arrow from 8377.6,666.1 to 8377.6,583.9 nohead lc 3 lw 2
+set arrow from 8377.6,583.9 to 8295.4,583.9 nohead lc 3 lw 2
+set label "p228" at 8336.5,625 front center font ",36"
+set arrow from 8436.4,583.9 to 8436.4,666.1 nohead lc 3 lw 2
+set arrow from 8436.4,666.1 to 8518.6,666.1 nohead lc 3 lw 2
+set arrow from 8518.6,666.1 to 8518.6,583.9 nohead lc 3 lw 2
+set arrow from 8518.6,583.9 to 8436.4,583.9 nohead lc 3 lw 2
+set label "p229" at 8477.5,625 front center font ",36"
+set arrow from 8577.4,583.9 to 8577.4,666.1 nohead lc 3 lw 2
+set arrow from 8577.4,666.1 to 8659.6,666.1 nohead lc 3 lw 2
+set arrow from 8659.6,666.1 to 8659.6,583.9 nohead lc 3 lw 2
+set arrow from 8659.6,583.9 to 8577.4,583.9 nohead lc 3 lw 2
+set label "p230" at 8618.5,625 front center font ",36"
+set arrow from 8718.4,583.9 to 8718.4,666.1 nohead lc 3 lw 2
+set arrow from 8718.4,666.1 to 8800.6,666.1 nohead lc 3 lw 2
+set arrow from 8800.6,666.1 to 8800.6,583.9 nohead lc 3 lw 2
+set arrow from 8800.6,583.9 to 8718.4,583.9 nohead lc 3 lw 2
+set label "p231" at 8759.5,625 front center font ",36"
+set arrow from 8859.4,583.9 to 8859.4,666.1 nohead lc 3 lw 2
+set arrow from 8859.4,666.1 to 8941.6,666.1 nohead lc 3 lw 2
+set arrow from 8941.6,666.1 to 8941.6,583.9 nohead lc 3 lw 2
+set arrow from 8941.6,583.9 to 8859.4,583.9 nohead lc 3 lw 2
+set label "p232" at 8900.5,625 front center font ",36"
+set arrow from 5757.4,724.9 to 5757.4,807.1 nohead lc 3 lw 2
+set arrow from 5757.4,807.1 to 5839.6,807.1 nohead lc 3 lw 2
+set arrow from 5839.6,807.1 to 5839.6,724.9 nohead lc 3 lw 2
+set arrow from 5839.6,724.9 to 5757.4,724.9 nohead lc 3 lw 2
+set label "p265" at 5798.5,766 front center font ",36"
+set arrow from 6039.4,724.9 to 6039.4,807.1 nohead lc 3 lw 2
+set arrow from 6039.4,807.1 to 6121.6,807.1 nohead lc 3 lw 2
+set arrow from 6121.6,807.1 to 6121.6,724.9 nohead lc 3 lw 2
+set arrow from 6121.6,724.9 to 6039.4,724.9 nohead lc 3 lw 2
+set label "p266" at 6080.5,766 front center font ",36"
+set arrow from 6603.4,724.9 to 6603.4,807.1 nohead lc 3 lw 2
+set arrow from 6603.4,807.1 to 6685.6,807.1 nohead lc 3 lw 2
+set arrow from 6685.6,807.1 to 6685.6,724.9 nohead lc 3 lw 2
+set arrow from 6685.6,724.9 to 6603.4,724.9 nohead lc 3 lw 2
+set label "p267" at 6644.5,766 front center font ",36"
+set arrow from 6885.4,724.9 to 6885.4,807.1 nohead lc 3 lw 2
+set arrow from 6885.4,807.1 to 6967.6,807.1 nohead lc 3 lw 2
+set arrow from 6967.6,807.1 to 6967.6,724.9 nohead lc 3 lw 2
+set arrow from 6967.6,724.9 to 6885.4,724.9 nohead lc 3 lw 2
+set label "p268" at 6926.5,766 front center font ",36"
+set arrow from 7026.4,724.9 to 7026.4,807.1 nohead lc 3 lw 2
+set arrow from 7026.4,807.1 to 7108.6,807.1 nohead lc 3 lw 2
+set arrow from 7108.6,807.1 to 7108.6,724.9 nohead lc 3 lw 2
+set arrow from 7108.6,724.9 to 7026.4,724.9 nohead lc 3 lw 2
+set label "p269" at 7067.5,766 front center font ",36"
+set arrow from 7167.4,724.9 to 7167.4,807.1 nohead lc 3 lw 2
+set arrow from 7167.4,807.1 to 7249.6,807.1 nohead lc 3 lw 2
+set arrow from 7249.6,807.1 to 7249.6,724.9 nohead lc 3 lw 2
+set arrow from 7249.6,724.9 to 7167.4,724.9 nohead lc 3 lw 2
+set label "p270" at 7208.5,766 front center font ",36"
+set arrow from 7449.4,724.9 to 7449.4,807.1 nohead lc 3 lw 2
+set arrow from 7449.4,807.1 to 7531.6,807.1 nohead lc 3 lw 2
+set arrow from 7531.6,807.1 to 7531.6,724.9 nohead lc 3 lw 2
+set arrow from 7531.6,724.9 to 7449.4,724.9 nohead lc 3 lw 2
+set label "p271" at 7490.5,766 front center font ",36"
+set arrow from 8436.4,724.9 to 8436.4,807.1 nohead lc 3 lw 2
+set arrow from 8436.4,807.1 to 8518.6,807.1 nohead lc 3 lw 2
+set arrow from 8518.6,807.1 to 8518.6,724.9 nohead lc 3 lw 2
+set arrow from 8518.6,724.9 to 8436.4,724.9 nohead lc 3 lw 2
+set label "p272" at 8477.5,766 front center font ",36"
+set arrow from 8577.4,724.9 to 8577.4,807.1 nohead lc 3 lw 2
+set arrow from 8577.4,807.1 to 8659.6,807.1 nohead lc 3 lw 2
+set arrow from 8659.6,807.1 to 8659.6,724.9 nohead lc 3 lw 2
+set arrow from 8659.6,724.9 to 8577.4,724.9 nohead lc 3 lw 2
+set label "p273" at 8618.5,766 front center font ",36"
+set arrow from 8718.4,724.9 to 8718.4,807.1 nohead lc 3 lw 2
+set arrow from 8718.4,807.1 to 8800.6,807.1 nohead lc 3 lw 2
+set arrow from 8800.6,807.1 to 8800.6,724.9 nohead lc 3 lw 2
+set arrow from 8800.6,724.9 to 8718.4,724.9 nohead lc 3 lw 2
+set label "p274" at 8759.5,766 front center font ",36"
+set arrow from 29,0 to 29,864 nohead lc 4 lw 1
+set arrow from 50.5,0 to 50.5,864 nohead lc 4 lw 1
+set arrow from 72,0 to 72,864 nohead lc 4 lw 1
+set arrow from 93.5,0 to 93.5,864 nohead lc 4 lw 1
+set arrow from 115,0 to 115,864 nohead lc 4 lw 1
+set arrow from 136.5,0 to 136.5,864 nohead lc 4 lw 1
+set arrow from 158,0 to 158,864 nohead lc 4 lw 1
+set arrow from 179.5,0 to 179.5,864 nohead lc 4 lw 1
+set arrow from 201,0 to 201,864 nohead lc 4 lw 1
+set arrow from 222.5,0 to 222.5,864 nohead lc 4 lw 1
+set arrow from 244,0 to 244,864 nohead lc 4 lw 1
+set arrow from 265.5,0 to 265.5,864 nohead lc 4 lw 1
+set arrow from 287,0 to 287,864 nohead lc 4 lw 1
+set arrow from 308.5,0 to 308.5,864 nohead lc 4 lw 1
+set arrow from 330,0 to 330,864 nohead lc 4 lw 1
+set arrow from 351.5,0 to 351.5,864 nohead lc 4 lw 1
+set arrow from 373,0 to 373,864 nohead lc 4 lw 1
+set arrow from 394.5,0 to 394.5,864 nohead lc 4 lw 1
+set arrow from 416,0 to 416,864 nohead lc 4 lw 1
+set arrow from 437.5,0 to 437.5,864 nohead lc 4 lw 1
+set arrow from 459,0 to 459,864 nohead lc 4 lw 1
+set arrow from 480.5,0 to 480.5,864 nohead lc 4 lw 1
+set arrow from 502,0 to 502,864 nohead lc 4 lw 1
+set arrow from 523.5,0 to 523.5,864 nohead lc 4 lw 1
+set arrow from 545,0 to 545,864 nohead lc 4 lw 1
+set arrow from 566.5,0 to 566.5,864 nohead lc 4 lw 1
+set arrow from 588,0 to 588,864 nohead lc 4 lw 1
+set arrow from 609.5,0 to 609.5,864 nohead lc 4 lw 1
+set arrow from 631,0 to 631,864 nohead lc 4 lw 1
+set arrow from 652.5,0 to 652.5,864 nohead lc 4 lw 1
+set arrow from 674,0 to 674,864 nohead lc 4 lw 1
+set arrow from 695.5,0 to 695.5,864 nohead lc 4 lw 1
+set arrow from 717,0 to 717,864 nohead lc 4 lw 1
+set arrow from 738.5,0 to 738.5,864 nohead lc 4 lw 1
+set arrow from 760,0 to 760,864 nohead lc 4 lw 1
+set arrow from 781.5,0 to 781.5,864 nohead lc 4 lw 1
+set arrow from 803,0 to 803,864 nohead lc 4 lw 1
+set arrow from 824.5,0 to 824.5,864 nohead lc 4 lw 1
+set arrow from 846,0 to 846,864 nohead lc 4 lw 1
+set arrow from 867.5,0 to 867.5,864 nohead lc 4 lw 1
+set arrow from 889,0 to 889,864 nohead lc 4 lw 1
+set arrow from 910.5,0 to 910.5,864 nohead lc 4 lw 1
+set arrow from 932,0 to 932,864 nohead lc 4 lw 1
+set arrow from 953.5,0 to 953.5,864 nohead lc 4 lw 1
+set arrow from 975,0 to 975,864 nohead lc 4 lw 1
+set arrow from 996.5,0 to 996.5,864 nohead lc 4 lw 1
+set arrow from 1018,0 to 1018,864 nohead lc 4 lw 1
+set arrow from 1039.5,0 to 1039.5,864 nohead lc 4 lw 1
+set arrow from 1061,0 to 1061,864 nohead lc 4 lw 1
+set arrow from 1082.5,0 to 1082.5,864 nohead lc 4 lw 1
+set arrow from 1104,0 to 1104,864 nohead lc 4 lw 1
+set arrow from 1125.5,0 to 1125.5,864 nohead lc 4 lw 1
+set arrow from 1147,0 to 1147,864 nohead lc 4 lw 1
+set arrow from 1168.5,0 to 1168.5,864 nohead lc 4 lw 1
+set arrow from 1190,0 to 1190,864 nohead lc 4 lw 1
+set arrow from 1211.5,0 to 1211.5,864 nohead lc 4 lw 1
+set arrow from 1233,0 to 1233,864 nohead lc 4 lw 1
+set arrow from 1254.5,0 to 1254.5,864 nohead lc 4 lw 1
+set arrow from 1276,0 to 1276,864 nohead lc 4 lw 1
+set arrow from 1297.5,0 to 1297.5,864 nohead lc 4 lw 1
+set arrow from 1319,0 to 1319,864 nohead lc 4 lw 1
+set arrow from 1340.5,0 to 1340.5,864 nohead lc 4 lw 1
+set arrow from 1362,0 to 1362,864 nohead lc 4 lw 1
+set arrow from 1383.5,0 to 1383.5,864 nohead lc 4 lw 1
+set arrow from 1405,0 to 1405,864 nohead lc 4 lw 1
+set arrow from 1426.5,0 to 1426.5,864 nohead lc 4 lw 1
+set arrow from 1448,0 to 1448,864 nohead lc 4 lw 1
+set arrow from 1469.5,0 to 1469.5,864 nohead lc 4 lw 1
+set arrow from 1491,0 to 1491,864 nohead lc 4 lw 1
+set arrow from 1512.5,0 to 1512.5,864 nohead lc 4 lw 1
+set arrow from 1534,0 to 1534,864 nohead lc 4 lw 1
+set arrow from 1555.5,0 to 1555.5,864 nohead lc 4 lw 1
+set arrow from 1577,0 to 1577,864 nohead lc 4 lw 1
+set arrow from 1598.5,0 to 1598.5,864 nohead lc 4 lw 1
+set arrow from 1620,0 to 1620,864 nohead lc 4 lw 1
+set arrow from 1641.5,0 to 1641.5,864 nohead lc 4 lw 1
+set arrow from 1663,0 to 1663,864 nohead lc 4 lw 1
+set arrow from 1684.5,0 to 1684.5,864 nohead lc 4 lw 1
+set arrow from 1706,0 to 1706,864 nohead lc 4 lw 1
+set arrow from 1727.5,0 to 1727.5,864 nohead lc 4 lw 1
+set arrow from 1749,0 to 1749,864 nohead lc 4 lw 1
+set arrow from 1770.5,0 to 1770.5,864 nohead lc 4 lw 1
+set arrow from 1792,0 to 1792,864 nohead lc 4 lw 1
+set arrow from 1813.5,0 to 1813.5,864 nohead lc 4 lw 1
+set arrow from 1835,0 to 1835,864 nohead lc 4 lw 1
+set arrow from 1856.5,0 to 1856.5,864 nohead lc 4 lw 1
+set arrow from 1878,0 to 1878,864 nohead lc 4 lw 1
+set arrow from 1899.5,0 to 1899.5,864 nohead lc 4 lw 1
+set arrow from 1921,0 to 1921,864 nohead lc 4 lw 1
+set arrow from 1942.5,0 to 1942.5,864 nohead lc 4 lw 1
+set arrow from 1964,0 to 1964,864 nohead lc 4 lw 1
+set arrow from 1985.5,0 to 1985.5,864 nohead lc 4 lw 1
+set arrow from 2007,0 to 2007,864 nohead lc 4 lw 1
+set arrow from 2028.5,0 to 2028.5,864 nohead lc 4 lw 1
+set arrow from 2050,0 to 2050,864 nohead lc 4 lw 1
+set arrow from 2071.5,0 to 2071.5,864 nohead lc 4 lw 1
+set arrow from 2093,0 to 2093,864 nohead lc 4 lw 1
+set arrow from 2114.5,0 to 2114.5,864 nohead lc 4 lw 1
+set arrow from 2136,0 to 2136,864 nohead lc 4 lw 1
+set arrow from 2157.5,0 to 2157.5,864 nohead lc 4 lw 1
+set arrow from 2179,0 to 2179,864 nohead lc 4 lw 1
+set arrow from 2200.5,0 to 2200.5,864 nohead lc 4 lw 1
+set arrow from 2222,0 to 2222,864 nohead lc 4 lw 1
+set arrow from 2243.5,0 to 2243.5,864 nohead lc 4 lw 1
+set arrow from 2265,0 to 2265,864 nohead lc 4 lw 1
+set arrow from 2286.5,0 to 2286.5,864 nohead lc 4 lw 1
+set arrow from 2308,0 to 2308,864 nohead lc 4 lw 1
+set arrow from 2329.5,0 to 2329.5,864 nohead lc 4 lw 1
+set arrow from 2351,0 to 2351,864 nohead lc 4 lw 1
+set arrow from 2372.5,0 to 2372.5,864 nohead lc 4 lw 1
+set arrow from 2394,0 to 2394,864 nohead lc 4 lw 1
+set arrow from 2415.5,0 to 2415.5,864 nohead lc 4 lw 1
+set arrow from 2437,0 to 2437,864 nohead lc 4 lw 1
+set arrow from 2458.5,0 to 2458.5,864 nohead lc 4 lw 1
+set arrow from 2480,0 to 2480,864 nohead lc 4 lw 1
+set arrow from 2501.5,0 to 2501.5,864 nohead lc 4 lw 1
+set arrow from 2523,0 to 2523,864 nohead lc 4 lw 1
+set arrow from 2544.5,0 to 2544.5,864 nohead lc 4 lw 1
+set arrow from 2566,0 to 2566,864 nohead lc 4 lw 1
+set arrow from 2587.5,0 to 2587.5,864 nohead lc 4 lw 1
+set arrow from 2609,0 to 2609,864 nohead lc 4 lw 1
+set arrow from 2630.5,0 to 2630.5,864 nohead lc 4 lw 1
+set arrow from 2652,0 to 2652,864 nohead lc 4 lw 1
+set arrow from 2673.5,0 to 2673.5,864 nohead lc 4 lw 1
+set arrow from 2695,0 to 2695,864 nohead lc 4 lw 1
+set arrow from 2716.5,0 to 2716.5,864 nohead lc 4 lw 1
+set arrow from 2738,0 to 2738,864 nohead lc 4 lw 1
+set arrow from 2759.5,0 to 2759.5,864 nohead lc 4 lw 1
+set arrow from 2781,0 to 2781,864 nohead lc 4 lw 1
+set arrow from 2802.5,0 to 2802.5,864 nohead lc 4 lw 1
+set arrow from 2824,0 to 2824,864 nohead lc 4 lw 1
+set arrow from 2845.5,0 to 2845.5,864 nohead lc 4 lw 1
+set arrow from 2867,0 to 2867,864 nohead lc 4 lw 1
+set arrow from 2888.5,0 to 2888.5,864 nohead lc 4 lw 1
+set arrow from 2910,0 to 2910,864 nohead lc 4 lw 1
+set arrow from 2931.5,0 to 2931.5,864 nohead lc 4 lw 1
+set arrow from 2953,0 to 2953,864 nohead lc 4 lw 1
+set arrow from 2974.5,0 to 2974.5,864 nohead lc 4 lw 1
+set arrow from 2996,0 to 2996,864 nohead lc 4 lw 1
+set arrow from 3017.5,0 to 3017.5,864 nohead lc 4 lw 1
+set arrow from 3039,0 to 3039,864 nohead lc 4 lw 1
+set arrow from 3060.5,0 to 3060.5,864 nohead lc 4 lw 1
+set arrow from 3082,0 to 3082,864 nohead lc 4 lw 1
+set arrow from 3103.5,0 to 3103.5,864 nohead lc 4 lw 1
+set arrow from 3125,0 to 3125,864 nohead lc 4 lw 1
+set arrow from 3146.5,0 to 3146.5,864 nohead lc 4 lw 1
+set arrow from 3168,0 to 3168,864 nohead lc 4 lw 1
+set arrow from 3189.5,0 to 3189.5,864 nohead lc 4 lw 1
+set arrow from 3211,0 to 3211,864 nohead lc 4 lw 1
+set arrow from 3232.5,0 to 3232.5,864 nohead lc 4 lw 1
+set arrow from 3254,0 to 3254,864 nohead lc 4 lw 1
+set arrow from 3275.5,0 to 3275.5,864 nohead lc 4 lw 1
+set arrow from 3297,0 to 3297,864 nohead lc 4 lw 1
+set arrow from 3318.5,0 to 3318.5,864 nohead lc 4 lw 1
+set arrow from 3340,0 to 3340,864 nohead lc 4 lw 1
+set arrow from 3361.5,0 to 3361.5,864 nohead lc 4 lw 1
+set arrow from 3383,0 to 3383,864 nohead lc 4 lw 1
+set arrow from 3404.5,0 to 3404.5,864 nohead lc 4 lw 1
+set arrow from 3426,0 to 3426,864 nohead lc 4 lw 1
+set arrow from 3447.5,0 to 3447.5,864 nohead lc 4 lw 1
+set arrow from 3469,0 to 3469,864 nohead lc 4 lw 1
+set arrow from 3490.5,0 to 3490.5,864 nohead lc 4 lw 1
+set arrow from 3512,0 to 3512,864 nohead lc 4 lw 1
+set arrow from 3533.5,0 to 3533.5,864 nohead lc 4 lw 1
+set arrow from 3555,0 to 3555,864 nohead lc 4 lw 1
+set arrow from 3576.5,0 to 3576.5,864 nohead lc 4 lw 1
+set arrow from 3598,0 to 3598,864 nohead lc 4 lw 1
+set arrow from 3619.5,0 to 3619.5,864 nohead lc 4 lw 1
+set arrow from 3641,0 to 3641,864 nohead lc 4 lw 1
+set arrow from 3662.5,0 to 3662.5,864 nohead lc 4 lw 1
+set arrow from 3684,0 to 3684,864 nohead lc 4 lw 1
+set arrow from 3705.5,0 to 3705.5,864 nohead lc 4 lw 1
+set arrow from 3727,0 to 3727,864 nohead lc 4 lw 1
+set arrow from 3748.5,0 to 3748.5,864 nohead lc 4 lw 1
+set arrow from 3770,0 to 3770,864 nohead lc 4 lw 1
+set arrow from 3791.5,0 to 3791.5,864 nohead lc 4 lw 1
+set arrow from 3813,0 to 3813,864 nohead lc 4 lw 1
+set arrow from 3834.5,0 to 3834.5,864 nohead lc 4 lw 1
+set arrow from 3856,0 to 3856,864 nohead lc 4 lw 1
+set arrow from 3877.5,0 to 3877.5,864 nohead lc 4 lw 1
+set arrow from 3899,0 to 3899,864 nohead lc 4 lw 1
+set arrow from 3920.5,0 to 3920.5,864 nohead lc 4 lw 1
+set arrow from 3942,0 to 3942,864 nohead lc 4 lw 1
+set arrow from 3963.5,0 to 3963.5,864 nohead lc 4 lw 1
+set arrow from 3985,0 to 3985,864 nohead lc 4 lw 1
+set arrow from 4006.5,0 to 4006.5,864 nohead lc 4 lw 1
+set arrow from 4028,0 to 4028,864 nohead lc 4 lw 1
+set arrow from 4049.5,0 to 4049.5,864 nohead lc 4 lw 1
+set arrow from 4071,0 to 4071,864 nohead lc 4 lw 1
+set arrow from 4092.5,0 to 4092.5,864 nohead lc 4 lw 1
+set arrow from 4114,0 to 4114,864 nohead lc 4 lw 1
+set arrow from 4135.5,0 to 4135.5,864 nohead lc 4 lw 1
+set arrow from 4157,0 to 4157,864 nohead lc 4 lw 1
+set arrow from 4178.5,0 to 4178.5,864 nohead lc 4 lw 1
+set arrow from 4200,0 to 4200,864 nohead lc 4 lw 1
+set arrow from 4221.5,0 to 4221.5,864 nohead lc 4 lw 1
+set arrow from 4243,0 to 4243,864 nohead lc 4 lw 1
+set arrow from 4264.5,0 to 4264.5,864 nohead lc 4 lw 1
+set arrow from 4286,0 to 4286,864 nohead lc 4 lw 1
+set arrow from 4307.5,0 to 4307.5,864 nohead lc 4 lw 1
+set arrow from 4329,0 to 4329,864 nohead lc 4 lw 1
+set arrow from 4350.5,0 to 4350.5,864 nohead lc 4 lw 1
+set arrow from 4372,0 to 4372,864 nohead lc 4 lw 1
+set arrow from 4393.5,0 to 4393.5,864 nohead lc 4 lw 1
+set arrow from 4415,0 to 4415,864 nohead lc 4 lw 1
+set arrow from 4436.5,0 to 4436.5,864 nohead lc 4 lw 1
+set arrow from 4458,0 to 4458,864 nohead lc 4 lw 1
+set arrow from 4479.5,0 to 4479.5,864 nohead lc 4 lw 1
+set arrow from 4501,0 to 4501,864 nohead lc 4 lw 1
+set arrow from 4522.5,0 to 4522.5,864 nohead lc 4 lw 1
+set arrow from 4544,0 to 4544,864 nohead lc 4 lw 1
+set arrow from 4565.5,0 to 4565.5,864 nohead lc 4 lw 1
+set arrow from 4587,0 to 4587,864 nohead lc 4 lw 1
+set arrow from 4608.5,0 to 4608.5,864 nohead lc 4 lw 1
+set arrow from 4630,0 to 4630,864 nohead lc 4 lw 1
+set arrow from 4651.5,0 to 4651.5,864 nohead lc 4 lw 1
+set arrow from 4673,0 to 4673,864 nohead lc 4 lw 1
+set arrow from 4694.5,0 to 4694.5,864 nohead lc 4 lw 1
+set arrow from 4716,0 to 4716,864 nohead lc 4 lw 1
+set arrow from 4737.5,0 to 4737.5,864 nohead lc 4 lw 1
+set arrow from 4759,0 to 4759,864 nohead lc 4 lw 1
+set arrow from 4780.5,0 to 4780.5,864 nohead lc 4 lw 1
+set arrow from 4802,0 to 4802,864 nohead lc 4 lw 1
+set arrow from 4823.5,0 to 4823.5,864 nohead lc 4 lw 1
+set arrow from 4845,0 to 4845,864 nohead lc 4 lw 1
+set arrow from 4866.5,0 to 4866.5,864 nohead lc 4 lw 1
+set arrow from 4888,0 to 4888,864 nohead lc 4 lw 1
+set arrow from 4909.5,0 to 4909.5,864 nohead lc 4 lw 1
+set arrow from 4931,0 to 4931,864 nohead lc 4 lw 1
+set arrow from 4952.5,0 to 4952.5,864 nohead lc 4 lw 1
+set arrow from 4974,0 to 4974,864 nohead lc 4 lw 1
+set arrow from 4995.5,0 to 4995.5,864 nohead lc 4 lw 1
+set arrow from 5017,0 to 5017,864 nohead lc 4 lw 1
+set arrow from 5038.5,0 to 5038.5,864 nohead lc 4 lw 1
+set arrow from 5060,0 to 5060,864 nohead lc 4 lw 1
+set arrow from 5081.5,0 to 5081.5,864 nohead lc 4 lw 1
+set arrow from 5103,0 to 5103,864 nohead lc 4 lw 1
+set arrow from 5124.5,0 to 5124.5,864 nohead lc 4 lw 1
+set arrow from 5146,0 to 5146,864 nohead lc 4 lw 1
+set arrow from 5167.5,0 to 5167.5,864 nohead lc 4 lw 1
+set arrow from 5189,0 to 5189,864 nohead lc 4 lw 1
+set arrow from 5210.5,0 to 5210.5,864 nohead lc 4 lw 1
+set arrow from 5232,0 to 5232,864 nohead lc 4 lw 1
+set arrow from 5253.5,0 to 5253.5,864 nohead lc 4 lw 1
+set arrow from 5275,0 to 5275,864 nohead lc 4 lw 1
+set arrow from 5296.5,0 to 5296.5,864 nohead lc 4 lw 1
+set arrow from 5318,0 to 5318,864 nohead lc 4 lw 1
+set arrow from 5339.5,0 to 5339.5,864 nohead lc 4 lw 1
+set arrow from 5361,0 to 5361,864 nohead lc 4 lw 1
+set arrow from 5382.5,0 to 5382.5,864 nohead lc 4 lw 1
+set arrow from 5404,0 to 5404,864 nohead lc 4 lw 1
+set arrow from 5425.5,0 to 5425.5,864 nohead lc 4 lw 1
+set arrow from 5447,0 to 5447,864 nohead lc 4 lw 1
+set arrow from 5468.5,0 to 5468.5,864 nohead lc 4 lw 1
+set arrow from 5490,0 to 5490,864 nohead lc 4 lw 1
+set arrow from 5511.5,0 to 5511.5,864 nohead lc 4 lw 1
+set arrow from 5533,0 to 5533,864 nohead lc 4 lw 1
+set arrow from 5554.5,0 to 5554.5,864 nohead lc 4 lw 1
+set arrow from 5576,0 to 5576,864 nohead lc 4 lw 1
+set arrow from 5597.5,0 to 5597.5,864 nohead lc 4 lw 1
+set arrow from 5619,0 to 5619,864 nohead lc 4 lw 1
+set arrow from 5653,0 to 5653,864 nohead lc 4 lw 1
+set arrow from 5687,0 to 5687,864 nohead lc 4 lw 1
+set arrow from 5721,0 to 5721,864 nohead lc 4 lw 1
+set arrow from 5742.5,0 to 5742.5,864 nohead lc 4 lw 1
+set arrow from 5764,0 to 5764,864 nohead lc 4 lw 1
+set arrow from 5788,0 to 5788,864 nohead lc 4 lw 1
+set arrow from 5822,0 to 5822,864 nohead lc 4 lw 1
+set arrow from 5856,0 to 5856,864 nohead lc 4 lw 1
+set arrow from 5890,0 to 5890,864 nohead lc 4 lw 1
+set arrow from 5911.5,0 to 5911.5,864 nohead lc 4 lw 1
+set arrow from 5933,0 to 5933,864 nohead lc 4 lw 1
+set arrow from 5957,0 to 5957,864 nohead lc 4 lw 1
+set arrow from 5991,0 to 5991,864 nohead lc 4 lw 1
+set arrow from 6012.5,0 to 6012.5,864 nohead lc 4 lw 1
+set arrow from 6034,0 to 6034,864 nohead lc 4 lw 1
+set arrow from 6058,0 to 6058,864 nohead lc 4 lw 1
+set arrow from 6092,0 to 6092,864 nohead lc 4 lw 1
+set arrow from 6126,0 to 6126,864 nohead lc 4 lw 1
+set arrow from 6147.5,0 to 6147.5,864 nohead lc 4 lw 1
+set arrow from 6169,0 to 6169,864 nohead lc 4 lw 1
+set arrow from 6193,0 to 6193,864 nohead lc 4 lw 1
+set arrow from 6227,0 to 6227,864 nohead lc 4 lw 1
+set arrow from 6261,0 to 6261,864 nohead lc 4 lw 1
+set arrow from 6282.5,0 to 6282.5,864 nohead lc 4 lw 1
+set arrow from 6304,0 to 6304,864 nohead lc 4 lw 1
+set arrow from 6328,0 to 6328,864 nohead lc 4 lw 1
+set arrow from 6362,0 to 6362,864 nohead lc 4 lw 1
+set arrow from 6396,0 to 6396,864 nohead lc 4 lw 1
+set arrow from 6430,0 to 6430,864 nohead lc 4 lw 1
+set arrow from 6451.5,0 to 6451.5,864 nohead lc 4 lw 1
+set arrow from 6473,0 to 6473,864 nohead lc 4 lw 1
+set arrow from 6497,0 to 6497,864 nohead lc 4 lw 1
+set arrow from 6531,0 to 6531,864 nohead lc 4 lw 1
+set arrow from 6552.5,0 to 6552.5,864 nohead lc 4 lw 1
+set arrow from 6574,0 to 6574,864 nohead lc 4 lw 1
+set arrow from 6598,0 to 6598,864 nohead lc 4 lw 1
+set arrow from 6632,0 to 6632,864 nohead lc 4 lw 1
+set arrow from 6666,0 to 6666,864 nohead lc 4 lw 1
+set arrow from 6687.5,0 to 6687.5,864 nohead lc 4 lw 1
+set arrow from 6709,0 to 6709,864 nohead lc 4 lw 1
+set arrow from 6733,0 to 6733,864 nohead lc 4 lw 1
+set arrow from 6767,0 to 6767,864 nohead lc 4 lw 1
+set arrow from 6801,0 to 6801,864 nohead lc 4 lw 1
+set arrow from 6822.5,0 to 6822.5,864 nohead lc 4 lw 1
+set arrow from 6844,0 to 6844,864 nohead lc 4 lw 1
+set arrow from 6868,0 to 6868,864 nohead lc 4 lw 1
+set arrow from 6902,0 to 6902,864 nohead lc 4 lw 1
+set arrow from 6936,0 to 6936,864 nohead lc 4 lw 1
+set arrow from 6970,0 to 6970,864 nohead lc 4 lw 1
+set arrow from 6991.5,0 to 6991.5,864 nohead lc 4 lw 1
+set arrow from 7013,0 to 7013,864 nohead lc 4 lw 1
+set arrow from 7034.5,0 to 7034.5,864 nohead lc 4 lw 1
+set arrow from 7070,0 to 7070,864 nohead lc 4 lw 1
+set arrow from 7104,0 to 7104,864 nohead lc 4 lw 1
+set arrow from 7125.5,0 to 7125.5,864 nohead lc 4 lw 1
+set arrow from 7147,0 to 7147,864 nohead lc 4 lw 1
+set arrow from 7171,0 to 7171,864 nohead lc 4 lw 1
+set arrow from 7205,0 to 7205,864 nohead lc 4 lw 1
+set arrow from 7239,0 to 7239,864 nohead lc 4 lw 1
+set arrow from 7260.5,0 to 7260.5,864 nohead lc 4 lw 1
+set arrow from 7282,0 to 7282,864 nohead lc 4 lw 1
+set arrow from 7306,0 to 7306,864 nohead lc 4 lw 1
+set arrow from 7340,0 to 7340,864 nohead lc 4 lw 1
+set arrow from 7374,0 to 7374,864 nohead lc 4 lw 1
+set arrow from 7395.5,0 to 7395.5,864 nohead lc 4 lw 1
+set arrow from 7417,0 to 7417,864 nohead lc 4 lw 1
+set arrow from 7438.5,0 to 7438.5,864 nohead lc 4 lw 1
+set arrow from 7474,0 to 7474,864 nohead lc 4 lw 1
+set arrow from 7508,0 to 7508,864 nohead lc 4 lw 1
+set arrow from 7542,0 to 7542,864 nohead lc 4 lw 1
+set arrow from 7576,0 to 7576,864 nohead lc 4 lw 1
+set arrow from 7597.5,0 to 7597.5,864 nohead lc 4 lw 1
+set arrow from 7619,0 to 7619,864 nohead lc 4 lw 1
+set arrow from 7643,0 to 7643,864 nohead lc 4 lw 1
+set arrow from 7677,0 to 7677,864 nohead lc 4 lw 1
+set arrow from 7698.5,0 to 7698.5,864 nohead lc 4 lw 1
+set arrow from 7720,0 to 7720,864 nohead lc 4 lw 1
+set arrow from 7744,0 to 7744,864 nohead lc 4 lw 1
+set arrow from 7778,0 to 7778,864 nohead lc 4 lw 1
+set arrow from 7812,0 to 7812,864 nohead lc 4 lw 1
+set arrow from 7833.5,0 to 7833.5,864 nohead lc 4 lw 1
+set arrow from 7855,0 to 7855,864 nohead lc 4 lw 1
+set arrow from 7879,0 to 7879,864 nohead lc 4 lw 1
+set arrow from 7913,0 to 7913,864 nohead lc 4 lw 1
+set arrow from 7947,0 to 7947,864 nohead lc 4 lw 1
+set arrow from 7968.5,0 to 7968.5,864 nohead lc 4 lw 1
+set arrow from 7990,0 to 7990,864 nohead lc 4 lw 1
+set arrow from 8014,0 to 8014,864 nohead lc 4 lw 1
+set arrow from 8048,0 to 8048,864 nohead lc 4 lw 1
+set arrow from 8082,0 to 8082,864 nohead lc 4 lw 1
+set arrow from 8116,0 to 8116,864 nohead lc 4 lw 1
+set arrow from 8137.5,0 to 8137.5,864 nohead lc 4 lw 1
+set arrow from 8159,0 to 8159,864 nohead lc 4 lw 1
+set arrow from 8180.5,0 to 8180.5,864 nohead lc 4 lw 1
+set arrow from 8202,0 to 8202,864 nohead lc 4 lw 1
+set arrow from 8225.5,0 to 8225.5,864 nohead lc 4 lw 1
+set arrow from 8258.5,0 to 8258.5,864 nohead lc 4 lw 1
+set arrow from 8280,0 to 8280,864 nohead lc 4 lw 1
+set arrow from 8301.5,0 to 8301.5,864 nohead lc 4 lw 1
+set arrow from 8323,0 to 8323,864 nohead lc 4 lw 1
+set arrow from 8344.5,0 to 8344.5,864 nohead lc 4 lw 1
+set arrow from 8368,0 to 8368,864 nohead lc 4 lw 1
+set arrow from 8402,0 to 8402,864 nohead lc 4 lw 1
+set arrow from 8436,0 to 8436,864 nohead lc 4 lw 1
+set arrow from 8457.5,0 to 8457.5,864 nohead lc 4 lw 1
+set arrow from 8479,0 to 8479,864 nohead lc 4 lw 1
+set arrow from 8500.5,0 to 8500.5,864 nohead lc 4 lw 1
+set arrow from 8536,0 to 8536,864 nohead lc 4 lw 1
+set arrow from 8570,0 to 8570,864 nohead lc 4 lw 1
+set arrow from 8591.5,0 to 8591.5,864 nohead lc 4 lw 1
+set arrow from 8613,0 to 8613,864 nohead lc 4 lw 1
+set arrow from 8637,0 to 8637,864 nohead lc 4 lw 1
+set arrow from 8671,0 to 8671,864 nohead lc 4 lw 1
+set arrow from 8692.5,0 to 8692.5,864 nohead lc 4 lw 1
+set arrow from 8714,0 to 8714,864 nohead lc 4 lw 1
+set arrow from 8735.5,0 to 8735.5,864 nohead lc 4 lw 1
+set arrow from 8757,0 to 8757,864 nohead lc 4 lw 1
+set arrow from 8778.5,0 to 8778.5,864 nohead lc 4 lw 1
+set arrow from 8804,0 to 8804,864 nohead lc 4 lw 1
+set arrow from 8825.5,0 to 8825.5,864 nohead lc 4 lw 1
+set arrow from 8847,0 to 8847,864 nohead lc 4 lw 1
+set arrow from 8868.5,0 to 8868.5,864 nohead lc 4 lw 1
+set arrow from 8890,0 to 8890,864 nohead lc 4 lw 1
+set arrow from 8911.5,0 to 8911.5,864 nohead lc 4 lw 1
+set arrow from 8933,0 to 8933,864 nohead lc 4 lw 1
+set arrow from 8954.5,0 to 8954.5,864 nohead lc 4 lw 1
+set arrow from 8976,0 to 8976,864 nohead lc 4 lw 1
+set arrow from 8997.5,0 to 8997.5,864 nohead lc 4 lw 1
+set arrow from 9019,0 to 9019,864 nohead lc 4 lw 1
+set arrow from 9040.5,0 to 9040.5,864 nohead lc 4 lw 1
+set arrow from 9062,0 to 9062,864 nohead lc 4 lw 1
+set arrow from 9083.5,0 to 9083.5,864 nohead lc 4 lw 1
+set arrow from 9105,0 to 9105,864 nohead lc 4 lw 1
+set arrow from 9126.5,0 to 9126.5,864 nohead lc 4 lw 1
+set arrow from 9148,0 to 9148,864 nohead lc 4 lw 1
+set arrow from 9169.5,0 to 9169.5,864 nohead lc 4 lw 1
+set arrow from 0,2 to 9200,2 nohead lc 5 lw 1
+set arrow from 0,16 to 9200,16 nohead lc 5 lw 1
+set arrow from 0,38 to 9200,38 nohead lc 5 lw 1
+set arrow from 0,60 to 9200,60 nohead lc 5 lw 1
+set arrow from 0,82 to 9200,82 nohead lc 5 lw 1
+set arrow from 0,104 to 9200,104 nohead lc 5 lw 1
+set arrow from 0,126 to 9200,126 nohead lc 5 lw 1
+set arrow from 0,148 to 9200,148 nohead lc 5 lw 1
+set arrow from 0,202 to 9200,202 nohead lc 5 lw 1
+set arrow from 0,255.1 to 9200,255.1 nohead lc 5 lw 1
+set arrow from 0,277.1 to 9200,277.1 nohead lc 5 lw 1
+set arrow from 0,343 to 9200,343 nohead lc 5 lw 1
+set arrow from 0,396.1 to 9200,396.1 nohead lc 5 lw 1
+set arrow from 0,418.1 to 9200,418.1 nohead lc 5 lw 1
+set arrow from 0,484 to 9200,484 nohead lc 5 lw 1
+set arrow from 0,537.1 to 9200,537.1 nohead lc 5 lw 1
+set arrow from 0,559.1 to 9200,559.1 nohead lc 5 lw 1
+set arrow from 0,625 to 9200,625 nohead lc 5 lw 1
+set arrow from 0,678.1 to 9200,678.1 nohead lc 5 lw 1
+set arrow from 0,700.1 to 9200,700.1 nohead lc 5 lw 1
+set arrow from 0,766 to 9200,766 nohead lc 5 lw 1
+set arrow from 0,819.1 to 9200,819.1 nohead lc 5 lw 1
+set arrow from 0,841.1 to 9200,841.1 nohead lc 5 lw 1
+set arrow from 5619,2 to 5619,484 nohead lc 8 lw 3
+set arrow from 5653,2 to 5653,766 nohead lc 8 lw 3
+set arrow from 5687,2 to 5687,277.1 nohead lc 8 lw 3
+set arrow from 5721,2 to 5721,559.1 nohead lc 8 lw 3
+set arrow from 5788,2 to 5788,148 nohead lc 8 lw 3
+set arrow from 5822,2 to 5822,418.1 nohead lc 8 lw 3
+set arrow from 5856,2 to 5856,700.1 nohead lc 8 lw 3
+set arrow from 5890,2 to 5890,277.1 nohead lc 8 lw 3
+set arrow from 5957,2 to 5957,559.1 nohead lc 8 lw 3
+set arrow from 5991,2 to 5991,126 nohead lc 8 lw 3
+set arrow from 6058,2 to 6058,418.1 nohead lc 8 lw 3
+set arrow from 6092,2 to 6092,700.1 nohead lc 8 lw 3
+set arrow from 6126,2 to 6126,148 nohead lc 8 lw 3
+set arrow from 6193,2 to 6193,418.1 nohead lc 8 lw 3
+set arrow from 6227,2 to 6227,559.1 nohead lc 8 lw 3
+set arrow from 6261,2 to 6261,700.1 nohead lc 8 lw 3
+set arrow from 6328,2 to 6328,148 nohead lc 8 lw 3
+set arrow from 6362,2 to 6362,418.1 nohead lc 8 lw 3
+set arrow from 6396,2 to 6396,700.1 nohead lc 8 lw 3
+set arrow from 6430,2 to 6430,277.1 nohead lc 8 lw 3
+set arrow from 6497,2 to 6497,559.1 nohead lc 8 lw 3
+set arrow from 6531,2 to 6531,148 nohead lc 8 lw 3
+set arrow from 6598,2 to 6598,418.1 nohead lc 8 lw 3
+set arrow from 6632,2 to 6632,700.1 nohead lc 8 lw 3
+set arrow from 6666,2 to 6666,277.1 nohead lc 8 lw 3
+set arrow from 6733,2 to 6733,559.1 nohead lc 8 lw 3
+set arrow from 6767,2 to 6767,148 nohead lc 8 lw 3
+set arrow from 6801,2 to 6801,418.1 nohead lc 8 lw 3
+set arrow from 6868,2 to 6868,126 nohead lc 8 lw 3
+set arrow from 6902,2 to 6902,277.1 nohead lc 8 lw 3
+set arrow from 6936,2 to 6936,396.1 nohead lc 8 lw 3
+set arrow from 6970,2 to 6970,559.1 nohead lc 8 lw 3
+set arrow from 7070,2 to 7070,148 nohead lc 8 lw 3
+set arrow from 7104,2 to 7104,418.1 nohead lc 8 lw 3
+set arrow from 7171,2 to 7171,700.1 nohead lc 8 lw 3
+set arrow from 7205,2 to 7205,277.1 nohead lc 8 lw 3
+set arrow from 7239,2 to 7239,559.1 nohead lc 8 lw 3
+set arrow from 7306,2 to 7306,126 nohead lc 8 lw 3
+set arrow from 7340,2 to 7340,255.1 nohead lc 8 lw 3
+set arrow from 7374,2 to 7374,418.1 nohead lc 8 lw 3
+set arrow from 7474,2 to 7474,700.1 nohead lc 8 lw 3
+set arrow from 7508,2 to 7508,148 nohead lc 8 lw 3
+set arrow from 7542,2 to 7542,277.1 nohead lc 8 lw 3
+set arrow from 7576,2 to 7576,418.1 nohead lc 8 lw 3
+set arrow from 7643,2 to 7643,700.1 nohead lc 8 lw 3
+set arrow from 7677,2 to 7677,126 nohead lc 8 lw 3
+set arrow from 7744,2 to 7744,277.1 nohead lc 8 lw 3
+set arrow from 7778,2 to 7778,418.1 nohead lc 8 lw 3
+set arrow from 7812,2 to 7812,700.1 nohead lc 8 lw 3
+set arrow from 7879,2 to 7879,148 nohead lc 8 lw 3
+set arrow from 7913,2 to 7913,277.1 nohead lc 8 lw 3
+set arrow from 7947,2 to 7947,418.1 nohead lc 8 lw 3
+set arrow from 8014,2 to 8014,766 nohead lc 8 lw 3
+set arrow from 8048,2 to 8048,148 nohead lc 8 lw 3
+set arrow from 8082,2 to 8082,277.1 nohead lc 8 lw 3
+set arrow from 8116,2 to 8116,418.1 nohead lc 8 lw 3
+set arrow from 8225.5,2 to 8225.5,766 nohead lc 8 lw 3
+set arrow from 8258.5,2 to 8258.5,148 nohead lc 8 lw 3
+set arrow from 8368,2 to 8368,484 nohead lc 8 lw 3
+set arrow from 8402,2 to 8402,700.1 nohead lc 8 lw 3
+set arrow from 8436,2 to 8436,202 nohead lc 8 lw 3
+set arrow from 8536,2 to 8536,418.1 nohead lc 8 lw 3
+set arrow from 8570,2 to 8570,202 nohead lc 8 lw 3
+set arrow from 8637,2 to 8637,343 nohead lc 8 lw 3
+set arrow from 8671,2 to 8671,148 nohead lc 8 lw 3
+set arrow from 8804,2 to 8804,148 nohead lc 8 lw 3
+set term png size 15000,3000
+set output 'bottom3.png'
+plot 'data2.txt' using 1:2 with points
