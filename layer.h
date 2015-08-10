@@ -7,7 +7,7 @@
 #ifndef layer_h
 #define layer_h
 
-#include "ExcelFormat.h"
+//#include "ExcelFormat.h"
 
 #include <iostream>
 #include <stdio.h>
@@ -22,10 +22,12 @@ struct shape{
 	int num;
     string name;
 	char type;
+	int net_num;
 	vector < pair < double , double > > vertices;
 	pair <double , double> coordinate_ld;
 	pair <double , double> coordinate_ru;
 	pair <double , double> center;
+	pair <double , double> modified_center;
 };
 
 struct layer {
@@ -51,8 +53,6 @@ struct net{
     string name;
 	pair < int , int > Shps;
 	vector < net_segment >  path;
-	//vector <int> path_y;
-	//vector < pair < double , double > > path_node;
 };
 
 struct interval{
@@ -64,6 +64,7 @@ struct interval{
 
 bool compare (interval,interval);
 bool compare2 (double,double);
+bool compare3 (shape,shape);
 
 class two_layer{
 	public:
@@ -73,8 +74,7 @@ class two_layer{
 		void gnuplot_bottom_pic(const char *);
 		void gnuplot_all_pic(const char *);
 		void find_top_gridline_xy();
-		void find_bottom_gridline_x(); //vertical
-		void copy_gird();
+		void assign_via();
 		void find_path();
 		void merge();
 		bool check_path(int , int , double *, double *);
@@ -84,9 +84,10 @@ class two_layer{
 		vector <layer> layers;
 		vector <net> nets;
 		vector < shape > shapes;
-		vector <interval> vases_x,vases_y,vases_v_x,vases_v_y; //
-		vector <double> x_line,y_line,x_bottom_line,y_bottom_line;
-		//vector < vector < pair < double , double > > > horizontal_intervals;
+		vector < shape > vias;
+		vector <int> record_via;
+		vector <interval> vases_x,vases_y;
+		vector <double> x_line,y_line,x_bottom_line;
 		vector < vector < net_segment > > horizontal_intervals;
 		vector < vector < net_segment > > vertical_top_intervals;
 		vector < vector < net_segment > > vertical_bottom_intervals;
